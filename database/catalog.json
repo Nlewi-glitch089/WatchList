@@ -1,0 +1,4549 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-26T16:27:04.071Z",
+  "popularity_period": {
+    "start": "2026-09-26",
+    "end": "2026-10-25",
+    "source": "English Wikipedia page views"
+  },
+  "sources": {
+    "facts": "Wikidata (CC0), https://www.wikidata.org",
+    "descriptions": "English Wikipedia (CC BY-SA 4.0), linked per movie in overview_source",
+    "posters": "Wikimedia Commons, credited per movie in poster_credit"
+  },
+  "movies": [
+    {
+      "wikidata_id": "Q151895",
+      "tmdb_id": 653,
+      "imdb_id": "tt0013442",
+      "title": "Nosferatu",
+      "year": 1922,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "F. W. Murnau"
+      ],
+      "runtime": 94,
+      "overview": "Nosferatu: A Symphony of Horror (German: Nosferatu – Eine Symphonie des Grauens) is a 1922 silent German Expressionist vampire film directed by F. W. Murnau from a screenplay by Henrik Galeen. It stars Max Schreck as Count Orlok, a vampire who preys on the wife (Greta Schröder) of his estate agent (Gustav von Wangenheim) and brings a plague to their town.",
+      "overview_source": "https://en.wikipedia.org/wiki/Nosferatu",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 80302,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q153886",
+      "tmdb_id": 234,
+      "imdb_id": "tt0010323",
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Crime"
+      ],
+      "directors": [
+        "Robert Wiene"
+      ],
+      "runtime": 77,
+      "overview": "The Cabinet of Dr. Caligari (German: Das Cabinet des Dr. Caligari) is a 1920 German silent horror film directed by Robert Wiene and written by Hans Janowitz and Carl Mayer. The quintessential work of early German Expressionist cinema, it tells the story of a hypnotist (Werner Krauss) who uses a somnambulist Cesare (Conrad Veidt) to commit murders.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/CABINETOFDRCALIGARI-poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:CABINETOFDRCALIGARI-poster.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 29582,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q163038",
+      "tmdb_id": 539,
+      "imdb_id": "tt0054215",
+      "title": "Psycho",
+      "year": 1960,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "runtime": 109,
+      "overview": "Psycho is a 1960 American horror thriller film produced and directed by Alfred Hitchcock. The screenplay, written by Joseph Stefano, is based on the 1959 novel by Robert Bloch. The film stars Anthony Perkins, Janet Leigh, Vera Miles, John Gavin, and Martin Balsam. The plot centers on an encounter between on-the-run embezzler Marion Crane (Leigh), shy motel proprietor Norman Bates (Perkins), and his disturbed mother.",
+      "overview_source": "https://en.wikipedia.org/wiki/Psycho_(1960_film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg/500px-Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Psycho_(1960)_theatrical_poster_(retouched).jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 117839,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q607179",
+      "tmdb_id": 805,
+      "imdb_id": "tt0063522",
+      "title": "Rosemary's Baby",
+      "year": 1968,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ],
+      "runtime": 137,
+      "overview": "Rosemary's Baby is a 1968 American psychological horror film written and directed by Roman Polanski, based on Ira Levin's 1967 novel. The film stars Mia Farrow as Rosemary, a newlywed living in Manhattan who becomes pregnant, and begins to suspect that her neighbors have sinister intentions regarding her and her baby. The film's supporting cast includes John Cassavetes, Ruth Gordon, Sidney Blackmer, Maurice Evans, Ralph Bellamy, Patsy Kelly, Angela Dorian, and Charles Grodin in his feature film debut.",
+      "overview_source": "https://en.wikipedia.org/wiki/Rosemary%27s_Baby_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 97063,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q623051",
+      "tmdb_id": 10331,
+      "imdb_id": "tt0063350",
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "George A. Romero"
+      ],
+      "runtime": 96,
+      "overview": "Night of the Living Dead is a 1968 American zombie horror film directed, photographed, and edited by George A. Romero, written by Romero and John Russo, and produced by Russell W. Streiner and Karl Hardman. The independent film's ensemble cast—which includes Duane Jones, Judith O'Dea, Marilyn Eastman, Karl Hardman, Judith Ridley, and Keith Wayne—star as a group of people trapped in a farmhouse in rural Pennsylvania, under assault by flesh-eating reanimated corpses.",
+      "overview_source": "https://en.wikipedia.org/wiki/Night_of_the_Living_Dead",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 86766,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q274167",
+      "tmdb_id": 9552,
+      "imdb_id": "tt0070047",
+      "title": "The Exorcist",
+      "year": 1973,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "William Friedkin"
+      ],
+      "runtime": 122,
+      "overview": "The Exorcist is a 1973 American supernatural horror film directed by William Friedkin and produced by William Peter Blatty, who adapted his own 1971 novel. The film stars Ellen Burstyn, Max von Sydow, Jason Miller, and Linda Blair, and follows the demonic possession of Georgetown, D.C.-residing upper class young girl Regan MacNeil and the attempt to rescue her through an exorcism by two Catholic priests; Fathers Lankester Merrin and Damien Karras.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Exorcist",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 176007,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q221103",
+      "tmdb_id": 948,
+      "imdb_id": "tt0077651",
+      "title": "Halloween",
+      "year": 1978,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "runtime": 92,
+      "overview": "Halloween is a 1978 American slasher film directed and scored by John Carpenter, who co-wrote it with producer Debra Hill. It stars Donald Pleasence, Jamie Lee Curtis (in her film debut), P. J. Soles, and Nancy Loomis.",
+      "overview_source": "https://en.wikipedia.org/wiki/Halloween_(1978_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 190120,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q186341",
+      "tmdb_id": 694,
+      "imdb_id": "tt0081505",
+      "title": "The Shining",
+      "year": 1980,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "runtime": 144,
+      "overview": "The Shining is a 1980 psychological horror film produced and directed by Stanley Kubrick and co-written with novelist Diane Johnson. It is based on Stephen King's 1977 novel and stars Jack Nicholson, Shelley Duvall, Danny Lloyd and Scatman Crothers. The film presents the descent into insanity of a recovering alcoholic and aspiring novelist who takes a job as winter caretaker for a mountain resort hotel with his wife and clairvoyant son.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Shining_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 248110,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q210756",
+      "tmdb_id": 1091,
+      "imdb_id": "tt0084787",
+      "title": "The Thing",
+      "year": 1982,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Mystery",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "runtime": 109,
+      "overview": "The Thing is a 1982 American science fiction horror film directed by John Carpenter from a screenplay by Bill Lancaster. Based on the 1938 John W. Campbell Jr. novella Who Goes There?, it tells the story of a group of American researchers in Antarctica who encounter the eponymous \"Thing\", an extraterrestrial life-form that assimilates, then imitates, other organisms. The group is overcome by paranoia and conflict as they learn that they can no longer trust each other and that any of them could be the Thing.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Thing_(1982_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 173728,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q329434",
+      "tmdb_id": 377,
+      "imdb_id": "tt0087800",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Craven"
+      ],
+      "runtime": 91,
+      "overview": "A Nightmare on Elm Street is a 1984 American supernatural slasher film written and directed by Wes Craven, and produced by Robert Shaye. It is the first installment in the A Nightmare on Elm Street franchise and stars Heather Langenkamp, John Saxon, Ronee Blakley, Robert Englund as Freddy Krueger, and Johnny Depp in his film debut.",
+      "overview_source": "https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 157917,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q27411",
+      "tmdb_id": 4232,
+      "imdb_id": "tt0117571",
+      "title": "Scream",
+      "year": 1996,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Mystery"
+      ],
+      "directors": [
+        "Wes Craven"
+      ],
+      "runtime": 111,
+      "overview": "Scream is a 1996 American slasher film directed by Wes Craven and written by Kevin Williamson. It stars David Arquette, Neve Campbell, Courteney Cox, Matthew Lillard, Rose McGowan, Skeet Ulrich, and Drew Barrymore. Set in the fictional town of Woodsboro, California, the plot follows high school student Sidney Prescott (Campbell) and her friends as they become the targets of a costumed serial killer on the anniversary of her mother's murder.",
+      "overview_source": "https://en.wikipedia.org/wiki/Scream_(1996_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 140822,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q16011764",
+      "tmdb_id": 242224,
+      "imdb_id": "tt2321549",
+      "title": "The Babadook",
+      "year": 2014,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Jennifer Kent"
+      ],
+      "runtime": 94,
+      "overview": "The Babadook is a 2014 Australian psychological horror film written and directed by Jennifer Kent in her feature directorial debut, based on her 2005 short film Monster. Starring Essie Davis, Noah Wiseman, Daniel Henshall, Hayley McElhinney, Barbara West, and Ben Winspear, the film follows a widowed single mother who, with her son, must confront a mysterious humanoid monster in their home.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Babadook",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 56089,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q16547881",
+      "tmdb_id": 270303,
+      "imdb_id": "tt3235888",
+      "title": "It Follows",
+      "year": 2014,
+      "genre": "Horror",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "David Robert Mitchell"
+      ],
+      "runtime": 100,
+      "overview": "It Follows is a 2014 American supernatural psychological horror film written and directed by David Robert Mitchell. It stars Maika Monroe as a young woman who is pursued by a supernatural entity. Keir Gilchrist, Daniel Zovatto, Jake Weary, Olivia Luccardi, and Lili Sepe appear in supporting roles. It Follows debuted at the 2014 Cannes Film Festival and was later purchased by Radius-TWC for distribution. After a successful limited release, the film had a wide release two weeks later on March 27, 2015.",
+      "overview_source": "https://en.wikipedia.org/wiki/It_Follows",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 115084,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q19057481",
+      "tmdb_id": 310131,
+      "imdb_id": "tt4263482",
+      "title": "The Witch",
+      "year": 2015,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "runtime": 93,
+      "overview": "The Witch (stylized as The VVitch, and subtitled A New-England Folktale) is a 2015 gothic folk horror film written and directed by Robert Eggers in his feature directorial debut. It stars Anya Taylor-Joy in her feature film debut, alongside Ralph Ineson, Kate Dickie, Harvey Scrimshaw, Ellie Grainger, and Lucas Dawson. Set in 1630s New England, the narrative follows a Puritan family who are preyed upon by an evil force in the woods beyond their farm.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Witch_(2015_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 138165,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q20948236",
+      "tmdb_id": 396535,
+      "imdb_id": "tt5700672",
+      "title": "Train to Busan",
+      "year": 2016,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Yeon Sang-ho"
+      ],
+      "runtime": 118,
+      "overview": "Train to Busan (Korean: 부산행) is a 2016 South Korean action horror film directed by Yeon Sang-ho and written by Park Joo-suk. It stars Gong Yoo, Jung Yu-mi, Ma Dong-seok, Kim Su-an, Choi Woo-shik, Ahn So-hee, and Kim Eui-sung. The film takes place primarily on a KTX from Seoul to Busan as a zombie apocalypse suddenly breaks out and threatens the safety of the passengers.",
+      "overview_source": "https://en.wikipedia.org/wiki/Train_to_Busan",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 58067,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q25136235",
+      "tmdb_id": 419430,
+      "imdb_id": "tt5052448",
+      "title": "Get Out",
+      "year": 2017,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Mystery",
+        "Thriller"
+      ],
+      "directors": [
+        "Jordan Peele"
+      ],
+      "runtime": 104,
+      "overview": "Get Out is a 2017 American psychological horror film written, co-produced, and directed by Jordan Peele in his directorial debut. It stars Daniel Kaluuya, Allison Williams, Lil Rel Howery, LaKeith Stanfield, Bradley Whitford, Caleb Landry Jones, Stephen Root, Catherine Keener, and Betty Gabriel. The plot follows a young black man (Kaluuya), who uncovers shocking secrets when he meets the family of his white girlfriend (Williams).",
+      "overview_source": "https://en.wikipedia.org/wiki/Get_Out",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 119840,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q47524071",
+      "tmdb_id": 493922,
+      "imdb_id": "tt7784604",
+      "title": "Hereditary",
+      "year": 2018,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "directors": [
+        "Ari Aster"
+      ],
+      "runtime": 127,
+      "overview": "Hereditary is a 2018 American supernatural psychological horror film written and directed by Ari Aster in his feature directorial debut. Starring Toni Collette, Alex Wolff, Milly Shapiro, Ann Dowd, and Gabriel Byrne, the film follows Annie Graham (Collette), a grieving miniature artist who uncovers disturbing secrets about her recently deceased mother. She is subsequently tormented by sinister paranormal occurrences, along with her husband Steve (Byrne) and their children, Peter (Wolff) and Charlie (Shapiro).",
+      "overview_source": "https://en.wikipedia.org/wiki/Hereditary_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 259531,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q55907451",
+      "tmdb_id": 530385,
+      "imdb_id": "tt8772262",
+      "title": "Midsommar",
+      "year": 2019,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Ari Aster"
+      ],
+      "runtime": 147,
+      "overview": "Midsommar is a 2019 folk horror film written and directed by Ari Aster. It stars Florence Pugh and Jack Reynor as an American couple who are drawn into a violent cult in rural Sweden. Supporting actors include William Jackson Harper, Vilhelm Blomgren, Ellora Torchia, Archie Madekwe, and Will Poulter.",
+      "overview_source": "https://en.wikipedia.org/wiki/Midsommar",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 186678,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q56000996",
+      "tmdb_id": 458723,
+      "imdb_id": "tt6857112",
+      "title": "Us",
+      "year": 2019,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Jordan Peele"
+      ],
+      "runtime": 116,
+      "overview": "Us is a 2019 American psychological horror film written and directed by Jordan Peele, and starring Lupita Nyong'o, Winston Duke, Elisabeth Moss and Tim Heidecker. The story follows Adelaide Wilson and her family, who are attacked by a group of menacing doppelgängers, called the \"Tethered\".",
+      "overview_source": "https://en.wikipedia.org/wiki/Us_(2019_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 64049,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q64004122",
+      "tmdb_id": 570670,
+      "imdb_id": "tt1051906",
+      "title": "The Invisible Man",
+      "year": 2020,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Leigh Whannell"
+      ],
+      "runtime": 124,
+      "overview": "The Invisible Man is a 2020 science fiction horror film written and directed by Leigh Whannell. Loosely based on H. G. Wells's 1897 novel, it stars Elisabeth Moss as a woman who believes she is being stalked and gaslit by her abusive ex-boyfriend (Oliver Jackson-Cohen) after he acquires the ability to become invisible. Aldis Hodge, Storm Reid, Harriet Dyer, and Michael Dorman appear in supporting roles.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Invisible_Man_(2020_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 47663,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q116193178",
+      "tmdb_id": 1008042,
+      "imdb_id": "tt10638522",
+      "title": "Talk to Me",
+      "year": 2022,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "directors": [
+        "Michael Philippou",
+        "Danny Philippou"
+      ],
+      "runtime": 94,
+      "overview": "Talk to Me is a 2022 Australian supernatural horror film directed by Danny and Michael Philippou in their feature directorial debuts and written by Danny Philippou and Bill Hinzman, based on a concept by Daley Pearson. It stars Sophie Wilde, Alexandra Jensen, Joe Bird, Otis Dhanji, Miranda Otto, Zoe Terakes, Chris Alosio, Marcus Johnson, and Alexandria Steffensen. The film follows a group of teenagers discovering they can contact spirits using a mysterious severed and embalmed hand.",
+      "overview_source": "https://en.wikipedia.org/wiki/Talk_to_Me_(2022_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 90794,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q111669794",
+      "tmdb_id": 949423,
+      "imdb_id": "tt18925334",
+      "title": "Pearl",
+      "year": 2022,
+      "genre": "Horror",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Ti West"
+      ],
+      "runtime": 102,
+      "overview": "Pearl is a 2022 American psychological slasher film directed, produced, and edited by Ti West, who co-wrote the screenplay with Mia Goth. It is the second installment in West's X film series and a prequel to X (2022). Goth reprises her role as the title character, with a supporting cast featuring David Corenswet, Tandi Wright, Matthew Sunderland, and Emma Jenkins-Purro.",
+      "overview_source": "https://en.wikipedia.org/wiki/Pearl_(2022_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 111247,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q116470610",
+      "tmdb_id": 1226578,
+      "imdb_id": "tt23468450",
+      "title": "Longlegs",
+      "year": 2024,
+      "genre": "Horror",
+      "genres": [
+        "Horror"
+      ],
+      "directors": [
+        "Oz Perkins"
+      ],
+      "runtime": 101,
+      "overview": "Longlegs is a 2024 American psychological horror-mystery film written and directed by Osgood Perkins. The film stars Maika Monroe, Blair Underwood, Alicia Witt, and Nicolas Cage. Set in the 1990s, the story follows a Federal Bureau of Investigation (FBI) agent assigned to hunt down an occult-obsessed serial killer responsible for a string of family murders across Oregon. The killer is dubbed Longlegs, and baffles the FBI with his perfect ability to seemingly leave zero trace of involvement at the crime scenes.",
+      "overview_source": "https://en.wikipedia.org/wiki/Longlegs",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 104745,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q113380226",
+      "tmdb_id": 933260,
+      "imdb_id": "tt17526714",
+      "title": "The Substance",
+      "year": 2024,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Comedy",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Coralie Fargeat"
+      ],
+      "runtime": 141,
+      "overview": "The Substance is a 2024 body horror film written and directed by Coralie Fargeat. It follows a fading celebrity (Demi Moore) who is fired by her producer (Dennis Quaid) due to her age and uses a black market drug that creates a younger woman (Margaret Qualley) with unexpected side effects.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Substance",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 200641,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q116361132",
+      "tmdb_id": 426063,
+      "imdb_id": "tt5040012",
+      "title": "Nosferatu",
+      "year": 2024,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Eggers"
+      ],
+      "runtime": 143,
+      "overview": "Nosferatu is a 2024 American gothic horror film written and directed by Robert Eggers. It is a remake of Nosferatu: A Symphony of Horror (1922), which was in turn inspired by Bram Stoker's novel Dracula (1897); the film combines elements of both. It stars Bill Skarsgård, Nicholas Hoult, Lily-Rose Depp, Aaron Taylor-Johnson, Emma Corrin, and Willem Dafoe.",
+      "overview_source": "https://en.wikipedia.org/wiki/Nosferatu_(2024_film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Nosferatu_%282024%29_teaser_poster.jpg/500px-Nosferatu_%282024%29_teaser_poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Nosferatu_(2024)_teaser_poster.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 166658,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q125473145",
+      "tmdb_id": 1233413,
+      "imdb_id": "tt31193180",
+      "title": "Sinners",
+      "year": 2025,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Ryan Coogler"
+      ],
+      "runtime": 137,
+      "overview": "Sinners is a 2025 American horror film produced, written, and directed by Ryan Coogler. Set in 1932 in the Mississippi Delta, it stars Michael B. Jordan in dual roles as criminal twin brothers who return to their hometown in the Jim Crow South, where they are confronted by a supernatural evil. The film co-stars Hailee Steinfeld, Miles Caton (in his film debut), Jack O'Connell, Wunmi Mosaku, Jayme Lawson, Omar Benson Miller, Li Jun Li and Delroy Lindo.",
+      "overview_source": "https://en.wikipedia.org/wiki/Sinners_(2025_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 271589,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q126487478",
+      "tmdb_id": 1078605,
+      "imdb_id": "tt26581740",
+      "title": "Weapons",
+      "year": 2025,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Zach Cregger"
+      ],
+      "runtime": 128,
+      "overview": "Weapons is a 2025 American supernatural mystery horror film directed, written, produced, and co-scored by Zach Cregger. It stars an ensemble cast including Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, Toby Huss, Benedict Wong, and Amy Madigan. Its plot follows the case of seventeen children from the same classroom who mysteriously run away on the same night at the same time.",
+      "overview_source": "https://en.wikipedia.org/wiki/Weapons_(2025_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 452612,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q180214",
+      "tmdb_id": 44214,
+      "imdb_id": "tt0947798",
+      "title": "Black Swan",
+      "year": 2010,
+      "genre": "Thriller",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "runtime": 108,
+      "overview": "Black Swan is a 2010 American psychological horror thriller film directed by Darren Aronofsky, from a screenplay by Mark Heyman, John McLaughlin, and Andres Heinz, and based on a story by Heinz. Starring Natalie Portman, Vincent Cassel, Mila Kunis, Barbara Hershey, and Winona Ryder, the film follows a production of Tchaikovsky's Swan Lake by the company of New York City Ballet, led by Artistic Director Thomas Leroy (Cassel).",
+      "overview_source": "https://en.wikipedia.org/wiki/Black_Swan_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 60495,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q34414",
+      "tmdb_id": 567,
+      "imdb_id": "tt0047396",
+      "title": "Rear Window",
+      "year": 1954,
+      "genre": "Thriller",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "runtime": 112,
+      "overview": "Rear Window is a 1954 American mystery thriller film produced and directed by Alfred Hitchcock and written by John Michael Hayes, based on Cornell Woolrich's 1942 short story \"It Had to Be Murder\". Originally released by Paramount Pictures, the film stars James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter, and Raymond Burr. It was screened at the 1954 Venice Film Festival in competition for the Golden Lion.",
+      "overview_source": "https://en.wikipedia.org/wiki/Rear_Window",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Rear_Window_film_poster.jpg/500px-Rear_Window_film_poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Rear_Window_film_poster.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 38891,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q202548",
+      "tmdb_id": 426,
+      "imdb_id": "tt0052357",
+      "title": "Vertigo",
+      "year": 1958,
+      "genre": "Thriller",
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "runtime": 128,
+      "overview": "Vertigo is a 1958 American psychological thriller film produced and directed by Alfred Hitchcock. The story was based on the 1954 novel D'entre les morts (From Among the Dead) by Boileau-Narcejac, with a screenplay by Alec Coppel and Samuel A. Taylor. The film stars James Stewart as a former San Francisco police detective who has retired after an incident in the line of duty caused him to develop an extreme fear of heights, accompanied by vertigo.",
+      "overview_source": "https://en.wikipedia.org/wiki/Vertigo_(film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Vertigomovie.jpg/500px-Vertigomovie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Vertigomovie.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 48560,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q14920425",
+      "tmdb_id": 210577,
+      "imdb_id": "tt2267998",
+      "title": "Gone Girl",
+      "year": 2014,
+      "genre": "Thriller",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "runtime": 149,
+      "overview": "Gone Girl is a 2014 American psychological thriller film directed by David Fincher and written by Gillian Flynn, based on her 2012 novel. It stars Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry, and Carrie Coon in her film debut. Affleck plays Nick Dunne, a writing teacher who becomes the prime suspect following the disappearance of his wife, Amy (Pike), in Missouri.",
+      "overview_source": "https://en.wikipedia.org/wiki/Gone_Girl_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 107478,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q151599",
+      "tmdb_id": 19,
+      "imdb_id": "tt0017136",
+      "title": "Metropolis",
+      "year": 1927,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "directors": [
+        "Fritz Lang"
+      ],
+      "runtime": 153,
+      "overview": "Metropolis is a 1927 German expressionist science-fiction silent film directed by Fritz Lang and written by Thea von Harbou in collaboration with Lang, based on von Harbou's 1925 novel of the same name (which was written as a treatment). It stars Brigitte Helm, Gustav Fröhlich, Alfred Abel, and Rudolf Klein-Rogge. Erich Pommer produced it in the Babelsberg Studio for Universum Film A.G. (UFA). Metropolis is regarded as a pioneering science-fiction film, being among the first feature-length ones of that genre.",
+      "overview_source": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 49356,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q193695",
+      "tmdb_id": 630,
+      "imdb_id": "tt0032138",
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "genre": "Fantasy",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Musical",
+        "Drama"
+      ],
+      "directors": [
+        "Victor Fleming",
+        "King Vidor"
+      ],
+      "runtime": 98,
+      "overview": "The Wizard of Oz is a 1939 American musical fantasy film produced by Metro-Goldwyn-Mayer. Based on the 1900 novel The Wonderful Wizard of Oz by L. Frank Baum, it was primarily directed by Victor Fleming, who left production to take over the troubled Gone with the Wind. The screenplay is credited to Noel Langley, Florence Ryerson, and Edgar Allan Woolf, but includes contributions from other writers. The film stars Judy Garland, Frank Morgan, Ray Bolger, Jack Haley, Bert Lahr, Billie Burke, and Margaret Hamilton.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/WIZARD_OF_OZ_ORIGINAL_POSTER_1939.jpg/500px-WIZARD_OF_OZ_ORIGINAL_POSTER_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:WIZARD_OF_OZ_ORIGINAL_POSTER_1939.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 121036,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q425992",
+      "tmdb_id": 828,
+      "imdb_id": "tt0043456",
+      "title": "The Day the Earth Stood Still",
+      "year": 1951,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "directors": [
+        "Robert Wise"
+      ],
+      "runtime": 92,
+      "overview": "The Day the Earth Stood Still is a 1951 American science fiction film from 20th Century-Fox, produced by Julian Blaustein and directed by Robert Wise. It stars Michael Rennie, Patricia Neal, Hugh Marlowe, Sam Jaffe, Billy Gray, Frances Bavier and Lock Martin. The screenplay was written by Edmund H. North, based on the 1940 science fiction short story \"Farewell to the Master\" by Harry Bates. The film score was composed by Bernard Herrmann.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/The_Day_the_Earth_Stood_Still_%281951_poster%29.jpeg/500px-The_Day_the_Earth_Stood_Still_%281951_poster%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:The_Day_the_Earth_Stood_Still_(1951_poster).jpeg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 28810,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q103474",
+      "tmdb_id": 62,
+      "imdb_id": "tt0062622",
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Adventure"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "runtime": 143,
+      "overview": "2001: A Space Odyssey is a 1968 epic science fiction film produced and directed by Stanley Kubrick, who co-wrote the screenplay with Arthur C. Clarke. Its plot was inspired by several short stories optioned from Clarke, primarily \"The Sentinel\" (1951) and \"Encounter in the Dawn\" (1953). The film stars Keir Dullea, Gary Lockwood, William Sylvester, and Douglas Rain, and follows a voyage by astronauts, scientists, and the sentient supercomputer HAL 9000 to Jupiter to investigate an alien monolith.",
+      "overview_source": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 122962,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q17738",
+      "tmdb_id": 11,
+      "imdb_id": "tt0076759",
+      "title": "Star Wars: Episode IV – A New Hope",
+      "year": 1977,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "George Lucas"
+      ],
+      "runtime": 121,
+      "overview": "Star Wars (later retitled as Star Wars: Episode IV – A New Hope) is a 1977 American epic space opera film written and directed by George Lucas. Produced by Lucasfilm Ltd. and distributed by Twentieth Century-Fox, it is the first film in the Star Wars franchise and the fourth chronological chapter of the \"Skywalker Saga\". Set in a fictional galaxy ruled by the tyrannical Galactic Empire, the film follows a resistance movement called the Rebel Alliance that aims to destroy the Empire's ultimate weapon, the Death Star.",
+      "overview_source": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 101249,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q103569",
+      "tmdb_id": 348,
+      "imdb_id": "tt0078748",
+      "title": "Alien",
+      "year": 1979,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Fantasy",
+        "Mystery",
+        "Thriller",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "runtime": 117,
+      "overview": "Alien is a 1979 science fiction horror film directed by Ridley Scott and written by Dan O'Bannon, based on a story by O'Bannon and Ronald Shusett. It follows a commercial starship crew who investigate a derelict space vessel and are hunted by a deadly extraterrestrial creature. The film stars Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm, and Yaphet Kotto.",
+      "overview_source": "https://en.wikipedia.org/wiki/Alien_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 140321,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q184843",
+      "tmdb_id": 78,
+      "imdb_id": "tt0083658",
+      "title": "Blade Runner",
+      "year": 1982,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "runtime": 116,
+      "overview": "Blade Runner is a 1982 science fiction film directed by Ridley Scott from a screenplay by Hampton Fancher and David Peoples. Starring Harrison Ford, Rutger Hauer, Sean Young, and Edward James Olmos, it is an adaptation of the 1968 novel Do Androids Dream of Electric Sheep? by Philip K. Dick. The film is set in a dystopian future Los Angeles of 2019, in which synthetic humans known as replicants are bio-engineered by the powerful Tyrell Corporation to work on space colonies.",
+      "overview_source": "https://en.wikipedia.org/wiki/Blade_Runner",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 142660,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q11621",
+      "tmdb_id": 601,
+      "imdb_id": "tt0083866",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "runtime": 115,
+      "overview": "E.T. the Extra-Terrestrial (or simply E.T.) is a 1982 American science fantasy film produced and directed by Steven Spielberg and written by Melissa Mathison. It tells the story of Elliott, a boy who befriends an extraterrestrial that he names E.T. who has been stranded on Earth. Along with his friends and family, Elliott must find a way to help E.T. find his way home. The film stars Dee Wallace, Henry Thomas, Peter Coyote, Robert MacNaughton, and Drew Barrymore.",
+      "overview_source": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 69122,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q162255",
+      "tmdb_id": 218,
+      "imdb_id": "tt0088247",
+      "title": "The Terminator",
+      "year": 1984,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Fantasy",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "runtime": 107,
+      "overview": "The Terminator is a 1984 American science fiction action film directed by James Cameron, who co-wrote it with producer Gale Anne Hurd. It stars Arnold Schwarzenegger as the titular character, a cyborg assassin sent back in time from the post-apocalyptic 2029 to 1984 to assassinate Sarah Connor (Linda Hamilton), whose future son will one day save the world from Skynet, a hostile artificial intelligence. Soldier Kyle Reese (Michael Biehn) travels back in time to protect Sarah.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Terminator",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 115885,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q91540",
+      "tmdb_id": 105,
+      "imdb_id": "tt0088763",
+      "title": "Back to the Future",
+      "year": 1985,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "runtime": 115,
+      "overview": "Back to the Future is a 1985 American science fiction film directed by Robert Zemeckis and written by Zemeckis and Bob Gale. It stars Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover, and Thomas F. Wilson.",
+      "overview_source": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 90293,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q25057",
+      "tmdb_id": 68,
+      "imdb_id": "tt0088846",
+      "title": "Brazil",
+      "year": 1985,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "runtime": 142,
+      "overview": "Brazil is a 1985 dystopian science fiction black comedy film directed by Terry Gilliam and written by Gilliam, Charles McKeown, and Tom Stoppard. A co-production between the United Kingdom and the United States, the film stars Jonathan Pryce, Robert De Niro, Katherine Helmond, Ian Holm, Bob Hoskins, Michael Palin, Ian Richardson, Peter Vaughan, and Kim Greist.",
+      "overview_source": "https://en.wikipedia.org/wiki/Brazil_(1985_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 40120,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q506418",
+      "tmdb_id": 2493,
+      "imdb_id": "tt0093779",
+      "title": "The Princess Bride",
+      "year": 1987,
+      "genre": "Fantasy",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Rob Reiner"
+      ],
+      "runtime": 97,
+      "overview": "The Princess Bride is a 1987 American fantasy-adventure-comedy film directed and co-produced by Rob Reiner and starring Cary Elwes, Robin Wright, Mandy Patinkin, André the Giant, Chris Sarandon, Christopher Guest, Wallace Shawn, Peter Falk, Fred Savage, Billy Crystal and Carol Kane.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Princess_Bride",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 75516,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q217182",
+      "tmdb_id": 162,
+      "imdb_id": "tt0099487",
+      "title": "Edward Scissorhands",
+      "year": 1990,
+      "genre": "Fantasy",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Tim Burton"
+      ],
+      "runtime": 105,
+      "overview": "Edward Scissorhands is a 1990 American romantic fantasy film directed by Tim Burton. It was produced by Burton and Denise Di Novi, written by Caroline Thompson from a story by her and Burton, and starring Johnny Depp as the title character, along with Winona Ryder,  Dianne Wiest, Anthony Michael Hall, Kathy Baker, Vincent Price, and Alan Arkin.",
+      "overview_source": "https://en.wikipedia.org/wiki/Edward_Scissorhands",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 84696,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q491800",
+      "tmdb_id": 782,
+      "imdb_id": "tt0119177",
+      "title": "Gattaca",
+      "year": 1997,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "directors": [
+        "Andrew Niccol"
+      ],
+      "runtime": 101,
+      "overview": "Gattaca is a 1997 American dystopian science fiction film written and directed by Andrew Niccol in his feature directorial debut. It stars Ethan Hawke and Uma Thurman with Jude Law, Loren Dean, Ernest Borgnine, Gore Vidal, and Alan Arkin appearing in supporting roles. The film presents a future society driven by eugenics where children are conceived through genetic selection to ensure they possess the best hereditary traits of their parents.",
+      "overview_source": "https://en.wikipedia.org/wiki/Gattaca",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 52789,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q83495",
+      "tmdb_id": 603,
+      "imdb_id": "tt0133093",
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Crime",
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Lilly Wachowski",
+        "Lana Wachowski"
+      ],
+      "runtime": 136,
+      "overview": "The Matrix is a 1999 science fiction–action film written and directed by the Wachowskis. The first installment in the Matrix film series, it stars Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano. The film follows a disillusioned computer hacker Neo (Reeves) who discovers that the life he knows is an elaborate deception created by intelligent machines. He is recruited by underground insurgents Morpheus (Fishburne) and Trinity (Moss), to join the rebellion against the machines.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Matrix",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 118259,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q127367",
+      "tmdb_id": 120,
+      "imdb_id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "genre": "Fantasy",
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "runtime": 228,
+      "overview": "The Lord of the Rings: The Fellowship of the Ring is a 2001 epic fantasy film directed by Peter Jackson from a screenplay by Fran Walsh, Philippa Boyens, and Jackson. It is based on J. R. R. Tolkien's 1954 The Fellowship of the Ring, the first volume of the novel The Lord of the Rings. The film is the first instalment in the Lord of the Rings trilogy.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 69912,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q1434995",
+      "tmdb_id": 14337,
+      "imdb_id": "tt0390384",
+      "title": "Primer",
+      "year": 2004,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "directors": [
+        "Shane Carruth"
+      ],
+      "runtime": 77,
+      "overview": "Primer is a 2004 American independent science fiction film written, directed, produced, edited, and scored by Shane Carruth in his feature debut. The film stars Carruth and David Sullivan, and depicts the events surrounding the accidental discovery of time travel.",
+      "overview_source": "https://en.wikipedia.org/wiki/Primer_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 22322,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q221090",
+      "tmdb_id": 9693,
+      "imdb_id": "tt0206634",
+      "title": "Children of Men",
+      "year": 2006,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Crime",
+        "Thriller",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Alfonso Cuarón"
+      ],
+      "runtime": 106,
+      "overview": "Children of Men is a 2006 dystopian action thriller film directed and co-written by Alfonso Cuarón. The screenplay, based on P. D. James' 1992 novel The Children of Men, was credited to five writers, with Clive Owen making additional, uncredited contributions. The film is set in 2027, when two decades of human infertility have left human civilisation on the brink of collapse. Asylum seekers seek sanctuary in the United Kingdom, where they are subjected to detention, deportation and execution by the government.",
+      "overview_source": "https://en.wikipedia.org/wiki/Children_of_Men",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 87604,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q216006",
+      "tmdb_id": 1417,
+      "imdb_id": "tt0457430",
+      "title": "Pan's Labyrinth",
+      "year": 2006,
+      "genre": "Fantasy",
+      "genres": [
+        "Fantasy",
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Guillermo del Toro"
+      ],
+      "runtime": 119,
+      "overview": "Pan's Labyrinth (Spanish: El laberinto del fauno, lit. 'The Labyrinth of the Faun') is a 2006 Spanish-language dark fantasy film produced, written, and directed by Guillermo del Toro. The film stars Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones, and Ariadna Gil. The film is an international co-production between Spain and Mexico.",
+      "overview_source": "https://en.wikipedia.org/wiki/Pan%27s_Labyrinth",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 112437,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q26751",
+      "tmdb_id": 17431,
+      "imdb_id": "tt1182345",
+      "title": "Moon",
+      "year": 2009,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Duncan Jones"
+      ],
+      "runtime": 96,
+      "overview": "Moon is a 2009 science fiction film directed by Duncan Jones (in his directorial debut), written by Nathan Parker from a story by Jones. It stars Sam Rockwell as Sam Bell, a man who experiences a personal crisis as he nears the end of a three-year solitary stint mining helium-3 on the far side of the Moon. Dominique McElligott, Kaya Scodelario, Benedict Wong, Matt Berry, Malcolm Stewart, and Kevin Spacey appear in supporting roles.",
+      "overview_source": "https://en.wikipedia.org/wiki/Moon_(2009_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 23794,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q17150929",
+      "tmdb_id": 220289,
+      "imdb_id": "tt2866360",
+      "title": "Coherence",
+      "year": 2013,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Crime",
+        "Thriller"
+      ],
+      "directors": [
+        "James Ward Byrkit"
+      ],
+      "runtime": 87,
+      "overview": "Coherence is a 2013 American science fiction psychological thriller film written and directed by James Ward Byrkit in his directorial debut. The film had its world debut on September 19, 2013, at Fantastic Fest and stars Emily Foxler as a woman who must deal with strange occurrences following the close passing of a comet.",
+      "overview_source": "https://en.wikipedia.org/wiki/Coherence_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 37446,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q16635326",
+      "tmdb_id": 264660,
+      "imdb_id": "tt0470752",
+      "title": "Ex Machina",
+      "year": 2014,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Alex Garland"
+      ],
+      "runtime": 108,
+      "overview": "Ex Machina is a 2014  science fiction film, written and directed by Alex Garland in his directorial debut. It stars Domhnall Gleeson, Alicia Vikander, and Oscar Isaac. It follows a programmer who is invited by his CEO to administer the Turing test to an intelligent female humanoid robot.",
+      "overview_source": "https://en.wikipedia.org/wiki/Ex_Machina_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 59720,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q13417189",
+      "tmdb_id": 157336,
+      "imdb_id": "tt0816692",
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Thriller",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "runtime": 169,
+      "overview": "Interstellar is a 2014 epic science fiction drama film directed by Christopher Nolan, who co-wrote the screenplay with his brother, Jonathan Nolan. It features an ensemble cast led by Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, and Michael Caine. Set in a dystopian future where Earth is suffering from catastrophic blight and famine, the film follows a group of astronauts who travel through space in search of a new home for humanity.",
+      "overview_source": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 197124,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q20382729",
+      "tmdb_id": 329865,
+      "imdb_id": "tt2543164",
+      "title": "Arrival",
+      "year": 2016,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "runtime": 116,
+      "overview": "Arrival is a 2016 American science fiction drama film directed by Denis Villeneuve and written by Eric Heisserer, based on the 1998 novella \"Story of Your Life\" by Ted Chiang. The film stars Amy Adams as Louise Banks, a linguist engaged by the United States Army to discover how to communicate with extraterrestrials who have arrived on Earth, before tensions lead to war. Jeremy Renner, Forest Whitaker, and Michael Stuhlbarg appear in supporting roles.",
+      "overview_source": "https://en.wikipedia.org/wiki/Arrival_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 89514,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q25136228",
+      "tmdb_id": 300668,
+      "imdb_id": "tt2798920",
+      "title": "Annihilation",
+      "year": 2018,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Alex Garland"
+      ],
+      "runtime": 115,
+      "overview": "Annihilation is a 2018 cosmic horror film written and directed by Alex Garland, loosely based on the 2014 novel by Jeff VanderMeer. It stars Natalie Portman, Jennifer Jason Leigh, Gina Rodriguez, Tessa Thompson, Tuva Novotny, and Oscar Isaac. The story follows a group of scientists who enter the Shimmer, a mysterious quarantined zone of mutating plants and animals caused by an alien presence. The movie is a co-production between the United Kingdom and the United States.",
+      "overview_source": "https://en.wikipedia.org/wiki/Annihilation_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 65332,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q60834962",
+      "tmdb_id": 438631,
+      "imdb_id": "tt1160419",
+      "title": "Dune",
+      "year": 2021,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "runtime": 155,
+      "overview": "Dune (titled on-screen as Dune: Part One) is a 2021 American epic space opera film co-produced and directed by Denis Villeneuve, who co-wrote the screenplay with Jon Spaihts and Eric Roth. It is the first of a two-part adaptation of the 1965 novel by Frank Herbert and the first installment in Villeneuve's Dune film trilogy.",
+      "overview_source": "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 139229,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q83808444",
+      "tmdb_id": 545611,
+      "imdb_id": "tt6710474",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Daniel Scheinert",
+        "Dan Kwan"
+      ],
+      "runtime": 139,
+      "overview": "Everything Everywhere All at Once is a 2022 American independent absurdist comedy-drama film written and directed by Daniel Kwan and Daniel Scheinert, who produced it with Anthony and Joe Russo and Jonathan Wang. The film incorporates media from several genres, including surreal comedy, science fiction, fantasy, martial arts films, and immigrant narrative.",
+      "overview_source": "https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 112952,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q109228991",
+      "tmdb_id": 693134,
+      "imdb_id": "tt15239678",
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "runtime": 165,
+      "overview": "Dune: Part Two is a 2024 American epic space opera film directed by Denis Villeneuve, from a screenplay he wrote with Jon Spaihts. It is a sequel to Dune (2021), is the second film in a two-part adaptation of Frank Herbert's 1965 science fiction novel Dune, and is the second of a trilogy of films developed by Legendary Pictures. Timothée Chalamet leads an ensemble cast as Paul Atreides, an exiled monarch who allies with the Fremen to overthrow House Harkonnen as part of a quest to become a messianic figure.",
+      "overview_source": "https://en.wikipedia.org/wiki/Dune:_Part_Two",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 114489,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q134430",
+      "tmdb_id": 408,
+      "imdb_id": "tt0029583",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1937,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Romance",
+        "Musical"
+      ],
+      "directors": [
+        "Larry Morey",
+        "Percival C. Pearce",
+        "Ben Sharpsteen"
+      ],
+      "runtime": 83,
+      "overview": "Snow White and the Seven Dwarfs is a 1937 American animated musical fantasy film produced by Walt Disney and released by RKO Radio Pictures, based on the 1812 German fairy tale \"Snow White\" by the Brothers Grimm. The film was supervised by David Hand and a team of five sequence directors: Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson, and Ben Sharpsteen. It is the first animated feature film produced in the United States and the first cel animated feature film.",
+      "overview_source": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Snow_White_and_the_Seven_Dwarfs_%28Style_B%29_poster.jpg/500px-Snow_White_and_the_Seven_Dwarfs_%28Style_B%29_poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Snow_White_and_the_Seven_Dwarfs_(Style_B)_poster.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 24851,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q39571",
+      "tmdb_id": 8392,
+      "imdb_id": "tt0096283",
+      "title": "My Neighbor Totoro",
+      "year": 1988,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "runtime": 86,
+      "overview": "My Neighbor Totoro is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten. It stars the voices of Noriko Hidaka, Chika Sakamoto and Hitoshi Takagi, and focuses on two young sisters who, after moving with their father to the countryside, experience interactions with friendly wood spirits in postwar Japan.",
+      "overview_source": "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 50437,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q1905968",
+      "tmdb_id": 149,
+      "imdb_id": "tt0094625",
+      "title": "Akira",
+      "year": 1988,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Action"
+      ],
+      "directors": [
+        "Katsuhiro Otomo"
+      ],
+      "runtime": 124,
+      "overview": "Akira (Japanese: アキラ, pronounced [ä́.k̟ʲì.ɾä̀]) is a 1988 Japanese animated cyberpunk action thriller film directed by Katsuhiro Otomo, produced by Ryōhei Suzuki and Shunzō Katō, and written by Otomo and Izo Hashimoto, based on Otomo's 1982 manga Akira.",
+      "overview_source": "https://en.wikipedia.org/wiki/Akira_(1988_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 53950,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q171048",
+      "tmdb_id": 862,
+      "imdb_id": "tt0114709",
+      "title": "Toy Story",
+      "year": 1995,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "John Lasseter"
+      ],
+      "runtime": 80,
+      "overview": "Toy Story is a 1995 American animated adventure comedy film directed by John Lasseter, and written by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow. The first entirely computer-animated feature film, as well as the first feature film produced by Pixar Animation Studios for Walt Disney Pictures, it stars the voices of Tom Hanks, Tim Allen, Annie Potts, John Ratzenberger, Don Rickles, Wallace Shawn, and Jim Varney.",
+      "overview_source": "https://en.wikipedia.org/wiki/Toy_Story",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 88039,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q186572",
+      "tmdb_id": 128,
+      "imdb_id": "tt0119698",
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Action",
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "runtime": 128,
+      "overview": "Princess Mononoke is a 1997 Japanese animated historical fantasy film written and directed by Hayao Miyazaki. Set in the Muromachi period of Japanese history, the film follows Ashitaka, a young Emishi prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves.",
+      "overview_source": "https://en.wikipedia.org/wiki/Princess_Mononoke",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 63452,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q867283",
+      "tmdb_id": 10386,
+      "imdb_id": "tt0129167",
+      "title": "The Iron Giant",
+      "year": 1999,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Comedy",
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Brad Bird"
+      ],
+      "runtime": 86,
+      "overview": "The Iron Giant is a 1999 American animated science fiction film directed by Brad Bird (in his feature directorial debut) and written by Tim McCanlies. Loosely based on Ted Hughes's novel The Iron Man, it features an ensemble cast consisting of Jennifer Aniston, Harry Connick Jr., Vin Diesel, James Gammon, Cloris Leachman, John Mahoney, Eli Marienthal, Christopher McDonald and M. Emmet Walsh.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Iron_Giant",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 38809,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q155653",
+      "tmdb_id": 129,
+      "imdb_id": "tt0245429",
+      "title": "Spirited Away",
+      "year": 2001,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "runtime": 125,
+      "overview": "Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki. It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho. The film stars Rumi Hiiragi, alongside Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi, Tsunehiko Kamijō, Takehiko Ono, and Bunta Sugawara. It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore).",
+      "overview_source": "https://en.wikipedia.org/wiki/Spirited_Away",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 87430,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q318428",
+      "tmdb_id": 533,
+      "imdb_id": "tt0312004",
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "year": 2005,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Comedy",
+        "Mystery"
+      ],
+      "directors": [
+        "Steve Box",
+        "Nick Park"
+      ],
+      "runtime": 85,
+      "overview": "Wallace & Gromit: The Curse of the Were-Rabbit is a 2005 stop-motion animated comedy horror film directed by Nick Park and Steve Box and written by Park, Box, Mark Burton and Bob Baker. Produced by DreamWorks Animation and Aardman Features, it is the fourth instalment in the Wallace & Gromit series and the first to be feature-length.  A parody of classic monster films, the film centres on inventor Wallace (Peter Sallis) and his dog, Gromit, in their latest venture as pest control agents.",
+      "overview_source": "https://en.wikipedia.org/wiki/Wallace_%26_Gromit:_The_Curse_of_the_Were-Rabbit",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 27923,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q578595",
+      "tmdb_id": 4977,
+      "imdb_id": "tt0851578",
+      "title": "Paprika",
+      "year": 2006,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "directors": [
+        "Satoshi Kon"
+      ],
+      "runtime": 90,
+      "overview": "Paprika (Japanese: パプリカ, Hepburn: Papurika) is a 2006 Japanese animated surrealist",
+      "overview_source": "https://en.wikipedia.org/wiki/Paprika_(2006_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 26637,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q477965",
+      "tmdb_id": 2011,
+      "imdb_id": "tt0808417",
+      "title": "Persepolis",
+      "year": 2007,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Vincent Paronnaud",
+        "Marjane Satrapi"
+      ],
+      "runtime": 95,
+      "overview": "Persepolis is a 2007 French-language adult animated biographical drama film written and directed by Marjane Satrapi and Vincent Paronnaud, based on Satrapi's autobiographical graphic novel of the same name. The story follows a young girl as she comes of age against the backdrop of the Iranian Revolution. The title references the historical city of Persepolis.",
+      "overview_source": "https://en.wikipedia.org/wiki/Persepolis_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 11970,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q104905",
+      "tmdb_id": 10681,
+      "imdb_id": "tt0910970",
+      "title": "WALL-E",
+      "year": 2008,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Romance",
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "Andrew Stanton"
+      ],
+      "runtime": 98,
+      "overview": "WALL-E (stylized with an interpunct as WALL·E) is a 2008 American animated science fiction film directed by Andrew Stanton, who co-wrote the screenplay with Jim Reardon, based on a story by Stanton and Pete Docter. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of Ben Burtt, Elissa Knight, Jeff Garlin, John Ratzenberger, Kathy Najimy, and Sigourney Weaver, with Fred Willard in a live-action role.",
+      "overview_source": "https://en.wikipedia.org/wiki/WALL-E",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 49593,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q465275",
+      "tmdb_id": 10315,
+      "imdb_id": "tt0432283",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "runtime": 87,
+      "overview": "Fantastic Mr. Fox is a 2009  adventure comedy film directed by Wes Anderson, who co-wrote it with Noah Baumbach, based on the 1970 novel by Roald Dahl. It stars George Clooney, Meryl Streep, Jason Schwartzman, Bill Murray, Willem Dafoe, and Owen Wilson. In the stop-motion animated film, a spree of thefts led by Mr. Fox (Clooney) results in his family, and later his community, being hunted down by three farmers.",
+      "overview_source": "https://en.wikipedia.org/wiki/Fantastic_Mr._Fox_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 48152,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q17125101",
+      "tmdb_id": 110416,
+      "imdb_id": "tt1865505",
+      "title": "Song of the Sea",
+      "year": 2014,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy"
+      ],
+      "directors": [
+        "Tomm Moore"
+      ],
+      "runtime": 93,
+      "overview": "Song of the Sea (Irish: Amhrán na Mara) is a 2014 animated fantasy film directed by Tomm Moore and written by Will Collins, based on an original story by Moore. An international co-production between Ireland, Belgium, Denmark, France and Luxembourg, the film follows a 10 year old Irish boy named Ben (David Rawle) who discovers that his 6-year-old mute sister Saoirse is a selkie, who has to free faerie creatures from the Celtic goddess Macha whose owls eventually kidnap her, prompting Ben to rescue her.",
+      "overview_source": "https://en.wikipedia.org/wiki/Song_of_the_Sea_(2014_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 13067,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q21697406",
+      "tmdb_id": 372058,
+      "imdb_id": "tt5311514",
+      "title": "Your Name",
+      "year": 2016,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Romance"
+      ],
+      "directors": [
+        "Makoto Shinkai"
+      ],
+      "runtime": 107,
+      "overview": "Your Name (Japanese: 君の名は。, Hepburn: Kimi no Na wa; lit. 'Your Name is...') is a 2016 Japanese animated romantic fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho.",
+      "overview_source": "https://en.wikipedia.org/wiki/Your_Name",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 52596,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q5815826",
+      "tmdb_id": 354912,
+      "imdb_id": "tt2380307",
+      "title": "Coco",
+      "year": 2017,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Comedy",
+        "Mystery",
+        "Adventure",
+        "Musical",
+        "Drama"
+      ],
+      "directors": [
+        "Adrian Molina",
+        "Lee Unkrich"
+      ],
+      "runtime": 109,
+      "overview": "Coco is a 2017 American animated musical fantasy film directed by Lee Unkrich, and written by Adrian Molina and Matthew Aldrich. Produced by Pixar Animation Studios for Walt Disney Pictures, the film stars the voices of Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renée Victor, Ana Ofelia Murguía and Edward James Olmos.",
+      "overview_source": "https://en.wikipedia.org/wiki/Coco_(2017_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 85047,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q29588607",
+      "tmdb_id": 324857,
+      "imdb_id": "tt4633694",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Comedy",
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Bob Persichetti",
+        "Peter Ramsey",
+        "Rodney Rothman"
+      ],
+      "runtime": 117,
+      "overview": "Spider-Man: Into the Spider-Verse is a 2018 American animated superhero film based on the Marvel Comics character Spider-Man. Directed by Bob Persichetti, Peter Ramsey and Rodney Rothman from a screenplay by Phil Lord and Rothman, it is the first animated film in the Spider-Man franchise.",
+      "overview_source": "https://en.wikipedia.org/wiki/Spider-Man:_Into_the_Spider-Verse",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 77307,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q47482560",
+      "tmdb_id": 508883,
+      "imdb_id": "tt6587046",
+      "title": "The Boy and the Heron",
+      "year": 2023,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "runtime": 124,
+      "overview": "The Boy and the Heron (Japanese: 君たちはどう生きるか, Hepburn: Kimitachi wa Dō Ikiru ka; lit. 'How Do You Live?') is a 2023 Japanese animated fantasy film written and directed by Hayao Miyazaki. The film's Japanese title references the 1937 novel How Do You Live? by Genzaburō Yoshino, but is not an adaptation of it. Produced by Studio Ghibli, the film stars the voices of Soma Santoki, Masaki Suda, Ko Shibasaki, Aimyon, Yoshino Kimura, Takuya Kimura, Kaoru Kobayashi, and Shinobu Otake.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Boy_and_the_Heron",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 55210,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q125622088",
+      "tmdb_id": 823219,
+      "imdb_id": "tt4772188",
+      "title": "Flow",
+      "year": 2024,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Adventure"
+      ],
+      "directors": [
+        "Gints Zilbalodis"
+      ],
+      "runtime": 80,
+      "overview": "Flow (Latvian: Straume) is a 2024 independent animated dystopian adventure film directed by Gints Zilbalodis, written and produced by Zilbalodis and Matīss Kaža. A Latvian, French, and Belgian co-production, it features no dialogue and follows a cat trying to survive along with other animals in a seemingly post-apocalyptic world as the water level dramatically rises.",
+      "overview_source": "https://en.wikipedia.org/wiki/Flow_(2024_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 32765,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q124378349",
+      "tmdb_id": 1184918,
+      "imdb_id": "tt29623480",
+      "title": "The Wild Robot",
+      "year": 2024,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Chris Sanders"
+      ],
+      "runtime": 102,
+      "overview": "The Wild Robot is a 2024 American animated science fiction film written and directed by Chris Sanders, based on the 2016 novel by Peter Brown. It was produced by DreamWorks Animation, and features the voices of Lupita Nyong'o, Pedro Pascal, Kit Connor, Bill Nighy, Stephanie Hsu, Matt Berry, Ving Rhames, Mark Hamill, and Catherine O'Hara.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Wild_Robot",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 46586,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q113877606",
+      "tmdb_id": 1022789,
+      "imdb_id": "tt22022452",
+      "title": "Inside Out 2",
+      "year": 2024,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Kelsey Mann"
+      ],
+      "runtime": 96,
+      "overview": "Inside Out 2 is a 2024 American animated coming-of-age film directed by Kelsey Mann and written by Meg LeFauve and Dave Holstein. Produced by Pixar Animation Studios for Walt Disney Pictures, it is the sequel to Inside Out (2015).",
+      "overview_source": "https://en.wikipedia.org/wiki/Inside_Out_2",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 50468,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q130268157",
+      "tmdb_id": 803796,
+      "imdb_id": "tt14205554",
+      "title": "KPop Demon Hunters",
+      "year": 2025,
+      "genre": "Animation",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Action",
+        "Musical"
+      ],
+      "directors": [
+        "Maggie Kang",
+        "Chris Appelhans"
+      ],
+      "runtime": 95,
+      "overview": "KPop Demon Hunters is a 2025 American animated musical urban fantasy film co-written and directed by Maggie Kang and Chris Appelhans. Produced by Sony Pictures Animation for Netflix, the film stars the voices of Arden Cho, Ahn Hyo-seop, May Hong, Ji-young Yoo, Yunjin Kim, Daniel Dae Kim, Ken Jeong, and Lee Byung-hun. The story follows a K-pop girl group, Huntrix (Rumi, Mira, and Zoey), who lead double lives as demon hunters. They face off against a rival boy band, the Saja Boys, whose members are secretly demons.",
+      "overview_source": "https://en.wikipedia.org/wiki/KPop_Demon_Hunters",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 155894,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q208632",
+      "tmdb_id": 3078,
+      "imdb_id": "tt0025316",
+      "title": "It Happened One Night",
+      "year": 1934,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Frank Capra"
+      ],
+      "runtime": 105,
+      "overview": "It Happened One Night is a 1934 American screwball comedy film produced and directed by Frank Capra. Claudette Colbert stars as a pampered socialite who tries to get out from under her father's thumb and falls in love with a roguish reporter, played by Clark Gable.",
+      "overview_source": "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/It-happened-one-night-poster.jpg/500px-It-happened-one-night-poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:It-happened-one-night-poster.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 17631,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q498822",
+      "tmdb_id": 981,
+      "imdb_id": "tt0032904",
+      "title": "The Philadelphia Story",
+      "year": 1940,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "George Cukor"
+      ],
+      "runtime": 108,
+      "overview": "The Philadelphia Story is a 1940 American romantic comedy film starring Cary Grant, Katharine Hepburn, James Stewart, and Ruth Hussey. Directed by George Cukor, the film is based on the 1939 Broadway play of the same name by Philip Barry about a socialite whose wedding plans are complicated by the simultaneous arrival of her ex-husband and a tabloid magazine journalist.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Philadelphia_Story_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 15029,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q132689",
+      "tmdb_id": 289,
+      "imdb_id": "tt0034583",
+      "title": "Casablanca",
+      "year": 1942,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Crime",
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Michael Curtiz"
+      ],
+      "runtime": 102,
+      "overview": "Casablanca is a 1942 American romantic drama film directed by Michael Curtiz and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid. Filmed and set during World War II, it focuses on an American expatriate (Bogart) who must choose between his love for a woman (Bergman) and helping her husband (Henreid), a Czechoslovak resistance leader, escape from the Vichy-controlled city of Casablanca to continue his fight against the Nazis.",
+      "overview_source": "https://en.wikipedia.org/wiki/Casablanca_(film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/CasablancaPoster-Gold.jpg/500px-CasablancaPoster-Gold.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:CasablancaPoster-Gold.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 74846,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q201293",
+      "tmdb_id": 804,
+      "imdb_id": "tt0046250",
+      "title": "Roman Holiday",
+      "year": 1953,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "William Wyler"
+      ],
+      "runtime": 118,
+      "overview": "Roman Holiday is a 1953 American romantic comedy film directed and produced by William Wyler. It stars Audrey Hepburn as a princess out to see Rome on her own and Gregory Peck as a reporter. Hepburn won an Academy Award for Best Actress for her performance; the film also won the Academy Award for Best Story and the Academy Award for Best Costume Design.",
+      "overview_source": "https://en.wikipedia.org/wiki/Roman_Holiday",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Roman_Holiday_%281953_poster%29.jpg/500px-Roman_Holiday_%281953_poster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Roman_Holiday_(1953_poster).jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 23582,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q193066",
+      "tmdb_id": 164,
+      "imdb_id": "tt0054698",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Blake Edwards"
+      ],
+      "runtime": 110,
+      "overview": "Breakfast at Tiffany's is a 1961 American romantic comedy film directed by Blake Edwards from a screenplay by George Axelrod and based on the 1958 novella by Truman Capote. It stars Audrey Hepburn, George Peppard, Patricia Neal, Buddy Ebsen, Martin Balsam, and Mickey Rooney. In the film, Holly Golightly, a naïve, eccentric socialite, meets a struggling writer who moves into her apartment building.",
+      "overview_source": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_(film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Breakfast_at_Tiffany%27s_%281961_poster%29.jpg/500px-Breakfast_at_Tiffany%27s_%281961_poster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Breakfast_at_Tiffany%27s_(1961_poster).jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 50600,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q233464",
+      "tmdb_id": 703,
+      "imdb_id": "tt0075686",
+      "title": "Annie Hall",
+      "year": 1977,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Woody Allen"
+      ],
+      "runtime": 93,
+      "overview": "Annie Hall is a 1977 American satirical romantic comedy-drama film directed by Woody Allen from a screenplay written by Allen and Marshall Brickman, and produced by Allen's manager, Charles H. Joffe. The film stars Allen as Alvy Singer, who tries to figure out the reasons for the failure of his relationship with the eponymous female lead, played by Diane Keaton in a role written specifically for her.",
+      "overview_source": "https://en.wikipedia.org/wiki/Annie_Hall",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 22966,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q471169",
+      "tmdb_id": 639,
+      "imdb_id": "tt0098635",
+      "title": "When Harry Met Sally",
+      "year": 1989,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Rob Reiner"
+      ],
+      "runtime": 90,
+      "overview": "When Harry Met Sally... is a 1989 American romantic comedy film directed by Rob Reiner and written by Nora Ephron. Starring Billy Crystal, Meg Ryan, Carrie Fisher, and Bruno Kirby, it follows the title characters from the time they meet in Chicago and share a drive to New York City through twelve years of chance encounters in New York, and addresses the question \"Can men and women ever just be friends?\"",
+      "overview_source": "https://en.wikipedia.org/wiki/When_Harry_Met_Sally...",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 53228,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q659609",
+      "tmdb_id": 76,
+      "imdb_id": "tt0112471",
+      "title": "Before Sunrise",
+      "year": 1995,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "runtime": 97,
+      "overview": "Before Sunrise is a 1995 romantic drama film directed by Richard Linklater and co-written by Linklater and Kim Krizan, and is the first installment in the Before trilogy. In the film, Jesse (Ethan Hawke) and Céline (Julie Delpy) meet on a train and disembark in Vienna to spend the night together.",
+      "overview_source": "https://en.wikipedia.org/wiki/Before_Sunrise",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 40224,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q200672",
+      "tmdb_id": 509,
+      "imdb_id": "tt0125439",
+      "title": "Notting Hill",
+      "year": 1999,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Roger Michell"
+      ],
+      "runtime": 119,
+      "overview": "Notting Hill is a 1999 romantic comedy film directed by Roger Michell, written by Richard Curtis, and produced by Duncan Kenworthy. It stars Julia Roberts and Hugh Grant, with Rhys Ifans, Emma Chambers, Tim McInnerny, Gina McKee, and Hugh Bonneville in supporting roles. The story is of a romance between a British bookshop keeper (Grant) and a famous American actress (Roberts) who happens to walk into his shop in London's Notting Hill district.",
+      "overview_source": "https://en.wikipedia.org/wiki/Notting_Hill_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 41037,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q169082",
+      "tmdb_id": 4951,
+      "imdb_id": "tt0147800",
+      "title": "10 Things I Hate About You",
+      "year": 1999,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Gil Junger"
+      ],
+      "runtime": 97,
+      "overview": "10 Things I Hate About You is a 1999 American teen romantic comedy directed by Gil Junger (in his directorial debut) from a screenplay by Karen McCullah Lutz and Kirsten Smith. Adapted from William Shakespeare's comedy The Taming of the Shrew, it stars Julia Stiles, Heath Ledger, Joseph Gordon-Levitt, Larisa Oleynik, Larry Miller, Andrew Keegan, David Krumholtz, Susan May Pratt, Gabrielle Union, and Allison Janney.",
+      "overview_source": "https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 232497,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q1056853",
+      "tmdb_id": 843,
+      "imdb_id": "tt0118694",
+      "title": "In the Mood for Love",
+      "year": 2000,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Wong Kar-wai"
+      ],
+      "runtime": 98,
+      "overview": "In the Mood for Love (traditional Chinese: 花樣年華; simplified Chinese: 花样年华; lit. 'Flower-like Years', 'the prime of one's youth') is a 2000 romantic drama film written, directed, and produced by Wong Kar-wai. An international co-production between Hong Kong and France, the film follows a man (Tony Leung) and a woman (Maggie Cheung) in 1962 who discover that their spouses are having an affair. As they spend time together, they gradually develop feelings for one another.",
+      "overview_source": "https://en.wikipedia.org/wiki/In_the_Mood_for_Love",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 41303,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q484048",
+      "tmdb_id": 194,
+      "imdb_id": "tt0211915",
+      "title": "Amélie",
+      "year": 2001,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ],
+      "runtime": 122,
+      "overview": "Amélie (French: Le Fabuleux Destin d'Amélie Poulain, pronounced [lə fabylø dɛstɛ̃ d‿ameli pulɛ̃], lit. 'The Fabulous Destiny of Amélie Poulain') is a 2001 French-language romantic comedy film directed by Jean-Pierre Jeunet. Written by Jeunet with Guillaume Laurant, the film is a whimsical depiction of contemporary Parisian life, set in Montmartre.",
+      "overview_source": "https://en.wikipedia.org/wiki/Am%C3%A9lie",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 36897,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q208269",
+      "tmdb_id": 38,
+      "imdb_id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "genre": "Romance",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Michel Gondry"
+      ],
+      "runtime": 104,
+      "overview": "Eternal Sunshine of the Spotless Mind is a 2004 American science fiction romantic comedy-drama film directed by Michel Gondry and written by Charlie Kaufman from a story by Gondry, Kaufman, and Pierre Bismuth. It stars Jim Carrey and Kate Winslet as a couple who undergo memory erasure after they break up. Kirsten Dunst, Mark Ruffalo, Elijah Wood and Tom Wilkinson appear in supporting roles. The title of the film is a quotation from the 1717 poem Eloisa to Abelard by Alexander Pope.",
+      "overview_source": "https://en.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 86536,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q270385",
+      "tmdb_id": 4348,
+      "imdb_id": "tt0414387",
+      "title": "Pride & Prejudice",
+      "year": 2005,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Joe Wright"
+      ],
+      "runtime": 127,
+      "overview": "Pride & Prejudice is a 2005 period romance film directed by Joe Wright, in his feature directorial debut, based on the 1813 novel by Jane Austen. The film features five sisters from an English family of landed gentry as they deal with issues of marriage, morality, and misconceptions. Keira Knightley stars as Elizabeth Bennet, while Matthew Macfadyen plays Mr Darcy, who falls in love with her.",
+      "overview_source": "https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 58305,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q20856802",
+      "tmdb_id": 313369,
+      "imdb_id": "tt3783958",
+      "title": "La",
+      "year": 2016,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Musical",
+        "Drama"
+      ],
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "runtime": 128,
+      "overview": "La La Land is a 2016 American musical romantic comedy drama film written and directed by Damien Chazelle. It stars Ryan Gosling and Emma Stone as a struggling jazz pianist and an aspiring actress who meet and fall in love while pursuing their dreams in Los Angeles. The supporting cast includes John Legend, Rosemarie DeWitt, Finn Wittrock, and J. K. Simmons.",
+      "overview_source": "https://en.wikipedia.org/wiki/La_La_Land",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 78171,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q25136757",
+      "tmdb_id": 398818,
+      "imdb_id": "tt5726616",
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Luca Guadagnino"
+      ],
+      "runtime": 132,
+      "overview": "Call Me by Your Name is a 2017 romantic drama film directed by Luca Guadagnino. Its screenplay, by James Ivory, who also co-produced, is based on the 2007 novel by André Aciman. The film is the final installment in Guadagnino's thematic \"Desire\" trilogy, after I Am Love (2009) and A Bigger Splash (2015).",
+      "overview_source": "https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 58750,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q29588623",
+      "tmdb_id": 455207,
+      "imdb_id": "tt3104988",
+      "title": "Crazy Rich Asians",
+      "year": 2018,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Jon M. Chu"
+      ],
+      "runtime": 116,
+      "overview": "Crazy Rich Asians is a 2018 American romantic comedy drama film directed by Jon M. Chu from a screenplay by Peter Chiarelli and Adele Lim, based on the 2013 novel by Kevin Kwan. The film stars Constance Wu, Henry Golding, Gemma Chan, Lisa Lu, Awkwafina, Ken Jeong, and Michelle Yeoh. It follows a Chinese American professor, Rachel, who travels to Singapore with her boyfriend Nick and is shocked to discover that Nick's family is one of the richest families in Singapore.",
+      "overview_source": "https://en.wikipedia.org/wiki/Crazy_Rich_Asians",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 100324,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q63246568",
+      "tmdb_id": 531428,
+      "imdb_id": "tt8613070",
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Céline Sciamma"
+      ],
+      "runtime": 121,
+      "overview": "Portrait of a Lady on Fire (French: Portrait de la jeune fille en feu, lit. 'Portrait of the Young Lady on Fire') is a 2019 French historical romantic drama film written and directed by Céline Sciamma, starring Noémie Merlant and Adèle Haenel. Set in France in the late 18th century, the film tells the story of a brief affair between two young women: an aristocrat and a painter commissioned to paint her portrait. It was Haenel's final film role before retiring from the film industry in 2023.",
+      "overview_source": "https://en.wikipedia.org/wiki/Portrait_of_a_Lady_on_Fire",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 23361,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q116025865",
+      "tmdb_id": 666277,
+      "imdb_id": "tt13238346",
+      "title": "Past Lives",
+      "year": 2023,
+      "genre": "Drama",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Celine Song"
+      ],
+      "runtime": 106,
+      "overview": "Past Lives is a 2023 romantic drama film written and directed by Celine Song in her feature directorial debut. Starring Greta Lee, Teo Yoo, and John Magaro, it follows two childhood friends over the course of 24 years while they contemplate the nature of their relationship as they grow apart, living different lives. The plot is semi-autobiographical and inspired by real events from Song's life.",
+      "overview_source": "https://en.wikipedia.org/wiki/Past_Lives_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 34992,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q111458251",
+      "tmdb_id": 937287,
+      "imdb_id": "tt16426418",
+      "title": "Challengers",
+      "year": 2024,
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Luca Guadagnino"
+      ],
+      "runtime": 131,
+      "overview": "Challengers is a 2024 romantic sports film directed by Luca Guadagnino and written by Justin Kuritzkes. It follows the love triangle between an injured tennis star-turned-coach (Zendaya), her low-circuit tennis player ex-boyfriend (Josh O'Connor), and her tennis champion husband (Mike Faist) across 13 years of their relationship, culminating in the match between the two men on the ATP Challenger Tour.",
+      "overview_source": "https://en.wikipedia.org/wiki/Challengers_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 57027,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q24815",
+      "tmdb_id": 15,
+      "imdb_id": "tt0033467",
+      "title": "Citizen Kane",
+      "year": 1941,
+      "genre": "Drama",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Orson Welles"
+      ],
+      "runtime": 119,
+      "overview": "Citizen Kane is a 1941 American drama film directed, produced by, and starring Orson Welles and co-written by Welles and Herman J. Mankiewicz, and was Welles's first feature film. The quasi-biographical film examines the life and legacy of Charles Foster Kane, played by Welles, a composite character based on American media barons William Randolph Hearst and Joseph Pulitzer, and Chicago tycoons Samuel Insull and Harold McCormick, as well as aspects of the screenwriters' own lives.",
+      "overview_source": "https://en.wikipedia.org/wiki/Citizen_Kane",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/500px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Citizen_Kane_poster,_1941_(Style_B,_unrestored).jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 73852,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q172837",
+      "tmdb_id": 5156,
+      "imdb_id": "tt0040522",
+      "title": "Bicycle Thieves",
+      "year": 1948,
+      "genre": "Drama",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Vittorio De Sica"
+      ],
+      "runtime": 90,
+      "overview": "Bicycle Thieves (Italian: Ladri di biciclette), also known as The Bicycle Thief, is a 1948 Italian neorealist drama film directed by Vittorio De Sica. It follows the story of a poor father searching in post-World War II Rome for his stolen bicycle, without which he will lose the job which was to be the salvation of his young family.",
+      "overview_source": "https://en.wikipedia.org/wiki/Bicycle_Thieves",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 14955,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q26060",
+      "tmdb_id": 18148,
+      "imdb_id": "tt0046438",
+      "title": "Tokyo Story",
+      "year": 1953,
+      "genre": "Drama",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Yasujirō Ozu"
+      ],
+      "runtime": 136,
+      "overview": "Tokyo Story (Japanese: 東京物語, Hepburn: Tōkyō Monogatari) is a 1953 Japanese drama film directed by Yasujirō Ozu and starring Chishū Ryū and Chieko Higashiyama, about an aging couple who travel to Tokyo to visit their grown children.",
+      "overview_source": "https://en.wikipedia.org/wiki/Tokyo_Story",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Tokyo_monogatari_poster_2.jpg/500px-Tokyo_monogatari_poster_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Tokyo_monogatari_poster_2.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 14832,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q2345",
+      "tmdb_id": 389,
+      "imdb_id": "tt0050083",
+      "title": "12 Angry Men",
+      "year": 1957,
+      "genre": "Drama",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Sidney Lumet"
+      ],
+      "runtime": 95,
+      "overview": "12 Angry Men is a 1957 American legal drama film directed by Sidney Lumet in his feature directorial debut, adapted by Reginald Rose from his 1954 teleplay. A critique of the American jury system during the McCarthy era, the film tells the story of a jury of twelve men as they deliberate the conviction or acquittal of a teenager charged with murder on the basis of reasonable doubt; disagreement and conflict among the jurors forces them to question their morals and values.",
+      "overview_source": "https://en.wikipedia.org/wiki/12_Angry_Men",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/12_Angry_Men_%281957_film_poster%29.jpg/500px-12_Angry_Men_%281957_film_poster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:12_Angry_Men_(1957_film_poster).jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 70172,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q47703",
+      "tmdb_id": 238,
+      "imdb_id": "tt0068646",
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "Crime",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "runtime": 175,
+      "overview": "The Godfather is a 1972 American epic gangster film directed by Francis Ford Coppola, who co-wrote the screenplay with Mario Puzo based on Puzo's best-selling 1969 novel. The film features an ensemble cast that includes Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte and Diane Keaton.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Godfather",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 182051,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q47221",
+      "tmdb_id": 103,
+      "imdb_id": "tt0075314",
+      "title": "Taxi Driver",
+      "year": 1976,
+      "genre": "Drama",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "runtime": 114,
+      "overview": "Taxi Driver is a 1976 American neo-noir psychological drama film directed by Martin Scorsese and written by Paul Schrader. Set in New York City in a time of urban decay following the Vietnam War, it stars Robert De Niro as taxi driver Travis Bickle, whose mental state deteriorates as he works nights in the city, eventually having a mental breakdown and becoming a vigilante.",
+      "overview_source": "https://en.wikipedia.org/wiki/Taxi_Driver",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 76761,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q1141252",
+      "tmdb_id": 925,
+      "imdb_id": "tt0097216",
+      "title": "Do the Right Thing",
+      "year": 1989,
+      "genre": "Drama",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Spike Lee"
+      ],
+      "runtime": 120,
+      "overview": "Do the Right Thing is a 1989 American independent comedy-drama film produced, written and directed by Spike Lee. It features an ensemble cast that includes Lee, Danny Aiello, Ossie Davis, Ruby Dee, Richard Edson, Giancarlo Esposito, Bill Nunn, John Turturro and John Savage and is the feature film debut of Martin Lawrence and Rosie Perez.",
+      "overview_source": "https://en.wikipedia.org/wiki/Do_the_Right_Thing",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 33188,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q172241",
+      "tmdb_id": 278,
+      "imdb_id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": "Drama",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Frank Darabont"
+      ],
+      "runtime": 142,
+      "overview": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption. The film tells the story of banker Andy Dufresne (Tim Robbins), who is sentenced to life in Shawshank State Penitentiary for the murders of his wife and her lover, despite his claims of innocence.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Shawshank_Redemption",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 192123,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q4103201",
+      "tmdb_id": 85350,
+      "imdb_id": "tt1065073",
+      "title": "Boyhood",
+      "year": 2014,
+      "genre": "Drama",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "runtime": 165,
+      "overview": "Boyhood is a 2014 American epic coming-of-age drama film written and directed by Richard Linklater, and starring Patricia Arquette, Ellar Coltrane, Lorelei Linklater, and Ethan Hawke. Filmed from 2002 to 2014, Boyhood depicts the childhood and adolescence of Mason Evans Jr. (Coltrane) from ages six to eighteen as he grows up in Texas with divorced parents (Arquette and Hawke). Richard Linklater's daughter Lorelei plays Mason's sister, Samantha.",
+      "overview_source": "https://en.wikipedia.org/wiki/Boyhood_(2014_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 51478,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q15648198",
+      "tmdb_id": 244786,
+      "imdb_id": "tt2582802",
+      "title": "Whiplash",
+      "year": 2014,
+      "genre": "Drama",
+      "genres": [
+        "Musical",
+        "Drama"
+      ],
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "runtime": 106,
+      "overview": "Whiplash is a 2014 American psychological drama film written and directed by Damien Chazelle, and starring Miles Teller, J. K. Simmons, and Paul Reiser. It focuses on an ambitious music student and aspiring jazz drummer (Teller), who is pushed to his limit by his abusive instructor (Simmons).",
+      "overview_source": "https://en.wikipedia.org/wiki/Whiplash_(2014_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 88403,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q21527875",
+      "tmdb_id": 376867,
+      "imdb_id": "tt4975722",
+      "title": "Moonlight",
+      "year": 2016,
+      "genre": "Drama",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Barry Jenkins"
+      ],
+      "runtime": 111,
+      "overview": "Moonlight is a 2016 American drama film written and directed by Barry Jenkins, based on Tarell Alvin McCraney's unpublished semi-autobiographical play In Moonlight Black Boys Look Blue. It stars Trevante Rhodes, André Holland, Janelle Monáe in her first film appearance, Ashton Sanders, Jharrel Jerome in his feature film debut, Naomie Harris, and Mahershala Ali.",
+      "overview_source": "https://en.wikipedia.org/wiki/Moonlight_(2016_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 77483,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q27480769",
+      "tmdb_id": 391713,
+      "imdb_id": "tt4925292",
+      "title": "Lady Bird",
+      "year": 2017,
+      "genre": "Drama",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Greta Gerwig"
+      ],
+      "runtime": 93,
+      "overview": "Lady Bird is a 2017 American coming-of-age comedy drama film written and directed by Greta Gerwig in her solo directorial debut, starring Saoirse Ronan, Laurie Metcalf, Tracy Letts, Lucas Hedges, Timothée Chalamet, Beanie Feldstein, Stephen McKinley Henderson, and Lois Smith. Set in Sacramento, California, during the early 2000s, it focuses on a high school senior who has a turbulent relationship with her mother.",
+      "overview_source": "https://en.wikipedia.org/wiki/Lady_Bird_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 48501,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q61448040",
+      "tmdb_id": 496243,
+      "imdb_id": "tt6751668",
+      "title": "Parasite",
+      "year": 2019,
+      "genre": "Thriller",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Bong Joon-ho"
+      ],
+      "runtime": 132,
+      "overview": "Parasite (Korean: 기생충) is a 2019 South Korean black comedy thriller film directed by Bong Joon Ho, who co-wrote the screenplay with Han Jin-won. It stars Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, Park Myung-hoon, and Lee Jung-eun. The film follows a poor family who infiltrate the home and life of a wealthy family.",
+      "overview_source": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 96356,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q65679599",
+      "tmdb_id": 615643,
+      "imdb_id": "tt10633456",
+      "title": "Minari",
+      "year": 2020,
+      "genre": "Drama",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Lee Isaac Chung"
+      ],
+      "runtime": 115,
+      "overview": "Minari (Korean: 미나리; lit. 'water celery'; [minaɾi]) is a 2020 American drama film written and directed by Lee Isaac Chung. It stars Steven Yeun, Han Ye-ri, Alan Kim, Noel Kate Cho, Youn Yuh-jung, and Will Patton. A semi-autobiographical take on Chung's upbringing, its plot follows a family of South Korean immigrants who move to rural Arkansas during the 1980s.",
+      "overview_source": "https://en.wikipedia.org/wiki/Minari",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 15645,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q61740820",
+      "tmdb_id": 581734,
+      "imdb_id": "tt9770150",
+      "title": "Nomadland",
+      "year": 2020,
+      "genre": "Drama",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Chloé Zhao"
+      ],
+      "runtime": 107,
+      "overview": "Nomadland is a 2020 American drama film written, directed, edited and co-produced by Chloé Zhao. Based on the 2017 nonfiction book Nomadland: Surviving America in the Twenty-First Century by Jessica Bruder, it stars Frances McDormand as a widow who leaves her life in Nevada to drift around the United States in her van. A number of real-life nomads appear as fictionalized versions of themselves, including Linda May, Swankie, and Bob Wells. David Strathairn also stars in a supporting role.",
+      "overview_source": "https://en.wikipedia.org/wiki/Nomadland",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 26786,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q85323337",
+      "tmdb_id": 600583,
+      "imdb_id": "tt10293406",
+      "title": "The Power of the Dog",
+      "year": 2021,
+      "genre": "Western",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "directors": [
+        "Jane Campion"
+      ],
+      "runtime": 126,
+      "overview": "The Power of the Dog is a 2021 Western psychological drama film written, co-produced and directed by Jane Campion. It is based on Thomas Savage's 1967 novel. The film stars Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons, and Kodi Smit-McPhee. Set in Montana in 1925 and filmed mostly in rural areas in New Zealand’s Otago Region, the film is an international co-production between New Zealand, Australia, the United Kingdom, the United States, and Canada.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Power_of_the_Dog_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 36185,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q111668106",
+      "tmdb_id": 965150,
+      "imdb_id": "tt19770238",
+      "title": "Aftersun",
+      "year": 2022,
+      "genre": "Drama",
+      "genres": [
+        "Drama"
+      ],
+      "directors": [
+        "Charlotte Wells"
+      ],
+      "runtime": 101,
+      "overview": "Aftersun is a 2022 independent semi-autobiographical coming-of-age drama film written and directed by Charlotte Wells in her feature directorial debut. Starring Paul Mescal, Frankie Corio, and Celia Rowlson-Hall, the film is loosely based on Wells' childhood and follows an 11-year-old Scottish girl on holiday with her father at a Turkish resort on the eve of his 31st birthday.",
+      "overview_source": "https://en.wikipedia.org/wiki/Aftersun",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 68904,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q108314506",
+      "tmdb_id": 674324,
+      "imdb_id": "tt11813216",
+      "title": "The Banshees of Inisherin",
+      "year": 2022,
+      "genre": "Drama",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Martin McDonagh"
+      ],
+      "runtime": 114,
+      "overview": "The Banshees of Inisherin (  in-ih-SHERR-in) is a 2022 black tragicomedy film directed, written, and co-produced by Martin McDonagh. Set on a fictional remote island off the west coast of Ireland in 1923, the film stars Colin Farrell and Brendan Gleeson as two lifelong friends who find themselves at an impasse when one abruptly ends their friendship, with severe consequences for both of them. Kerry Condon and Barry Keoghan co-star. It reunites Farrell and Gleeson after McDonagh's directorial debut In Bruges (2008).",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Banshees_of_Inisherin",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 59857,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q108839994",
+      "tmdb_id": 872585,
+      "imdb_id": "tt15398776",
+      "title": "Oppenheimer",
+      "year": 2023,
+      "genre": "Drama",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "runtime": null,
+      "overview": "Oppenheimer is a 2023 epic biographical thriller film written, co-produced, and directed by Christopher Nolan. It follows the life of J. Robert Oppenheimer, the American theoretical physicist who led the development of the first nuclear weapons during World War II. Based on the 2005 biography American Prometheus by Kai Bird and Martin J. Sherwin, the film dramatizes Oppenheimer's studies, his direction of the Los Alamos Laboratory and his 1954 security hearing.",
+      "overview_source": "https://en.wikipedia.org/wiki/Oppenheimer_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 218277,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q123185887",
+      "tmdb_id": 1064213,
+      "imdb_id": "tt28607951",
+      "title": "Anora",
+      "year": 2024,
+      "genre": "Drama",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Sean Baker"
+      ],
+      "runtime": 139,
+      "overview": "Anora is a 2024 American romantic comedy-drama film written, directed, produced, and edited by Sean Baker. It stars Mikey Madison as Anora \"Ani\" Mikheeva, a lap dancer from New York who marries the wealthy son of a Russian oligarch played by Mark Eydelshteyn. The supporting cast includes Yura Borisov, Karren Karagulian, Vache Tovmasyan, Darya Ekamasova, and Aleksei Serebryakov.",
+      "overview_source": "https://en.wikipedia.org/wiki/Anora",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 145226,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q116701124",
+      "tmdb_id": 974576,
+      "imdb_id": "tt20215234",
+      "title": "Conclave",
+      "year": 2024,
+      "genre": "Thriller",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Edward Berger"
+      ],
+      "runtime": 121,
+      "overview": "Conclave is a 2024 political thriller film directed by Edward Berger and written by Peter Straughan, based on the 2016 novel by Robert Harris. The film stars Ralph Fiennes, Stanley Tucci, John Lithgow, Sergio Castellitto, and Isabella Rossellini. In the film, Cardinal Thomas Lawrence (Fiennes) organizes a conclave to elect the next pope and finds himself investigating secrets and scandals about the major candidates.",
+      "overview_source": "https://en.wikipedia.org/wiki/Conclave_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 44610,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q117085614",
+      "tmdb_id": 1054867,
+      "imdb_id": "tt30144839",
+      "title": "One Battle After Another",
+      "year": 2025,
+      "genre": "Action",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "runtime": null,
+      "overview": "One Battle After Another is a 2025 American epic action-comedy thriller film written, directed, and produced by Paul Thomas Anderson. Inspired by the 1990 novel Vineland by Thomas Pynchon, the film's ensemble cast includes Leonardo DiCaprio, Sean Penn, Benicio del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti, in her film debut.",
+      "overview_source": "https://en.wikipedia.org/wiki/One_Battle_After_Another",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 195456,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q850159",
+      "tmdb_id": 961,
+      "imdb_id": "tt0017925",
+      "title": "The General",
+      "year": 1926,
+      "genre": "Comedy",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "War"
+      ],
+      "directors": [
+        "Clyde Bruckman",
+        "Buster Keaton"
+      ],
+      "runtime": 75,
+      "overview": "The General is a 1926 American silent comedy film released by United Artists. It was inspired by the Great Locomotive Chase, a true story of an event that occurred during the American Civil War. The story was adapted from the 1889 memoir The Great Locomotive Chase by William Pittenger. The film stars Buster Keaton, who also co-directed it along with Clyde Bruckman.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_General_(1926_film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/The_General_%281926%29_-_Movie_Poster_2.png/500px-The_General_%281926%29_-_Movie_Poster_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:The_General_(1926)_-_Movie_Poster_2.png",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 9443,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q45602",
+      "tmdb_id": 3082,
+      "imdb_id": "tt0027977",
+      "title": "Modern Times",
+      "year": 1936,
+      "genre": "Comedy",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Charlie Chaplin"
+      ],
+      "runtime": 99,
+      "overview": "Modern Times is a 1936 American part-talkie satirical slapstick comedy film produced, scored, co-edited, written and directed by Charlie Chaplin. In Chaplin's last performance as the iconic Little Tramp, his character struggles to survive in the modern, industrialized world. The film also stars Paulette Goddard, Henry Bergman, Tiny Sandford and Chester Conklin.",
+      "overview_source": "https://en.wikipedia.org/wiki/Modern_Times_(film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Modern_Times_poster.jpg/500px-Modern_Times_poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Modern_Times_poster.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 10427,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q190086",
+      "tmdb_id": 239,
+      "imdb_id": "tt0053291",
+      "title": "Some Like It Hot",
+      "year": 1959,
+      "genre": "Comedy",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Crime",
+        "Musical",
+        "Drama"
+      ],
+      "directors": [
+        "Billy Wilder"
+      ],
+      "runtime": 120,
+      "overview": "Some Like It Hot is a 1959 American crime comedy film produced, co-written and directed by Billy Wilder. It stars Marilyn Monroe, Tony Curtis and Jack Lemmon, with George Raft, Pat O'Brien, Joe E. Brown, Joan Shawlee and Nehemiah Persoff in supporting roles. The screenplay by Wilder and I. A. L. Diamond is based on a screenplay by Robert Thoeren and Michael Logan from the 1935 French film Fanfare of Love.",
+      "overview_source": "https://en.wikipedia.org/wiki/Some_Like_It_Hot",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Some_Like_It_Hot_%281959_poster%29.png/500px-Some_Like_It_Hot_%281959_poster%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Some_Like_It_Hot_(1959_poster).png",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 30816,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q105702",
+      "tmdb_id": 935,
+      "imdb_id": "tt0057012",
+      "title": "Dr. Strangelove",
+      "year": 1964,
+      "genre": "Comedy",
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "runtime": 102,
+      "overview": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (usually shortened to Dr. Strangelove) is a 1964 political satire black comedy film co-written, produced, and directed by Stanley Kubrick. It is loosely based on the thriller novel Red Alert (1958) by Peter George, who wrote the screenplay with Kubrick and Terry Southern. Financed and released by Columbia Pictures, the film was a co-production between the United States and the United Kingdom.",
+      "overview_source": "https://en.wikipedia.org/wiki/Dr._Strangelove",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 89079,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q25043",
+      "tmdb_id": 762,
+      "imdb_id": "tt0071853",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "genre": "Comedy",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Terry Gilliam",
+        "Terry Jones"
+      ],
+      "runtime": 91,
+      "overview": "Monty Python and the Holy Grail is a 1975 British comedy film  based on the Arthurian legend, written and performed by the Monty Python comedy group (Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, and Michael Palin) and directed by Gilliam and Jones in their feature directorial debuts. It was conceived during the hiatus between the third and fourth series of their BBC Television series Monty Python's Flying Circus.",
+      "overview_source": "https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 38381,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q497256",
+      "tmdb_id": 813,
+      "imdb_id": "tt0080339",
+      "title": "Airplane!",
+      "year": 1980,
+      "genre": "Comedy",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "David Zucker",
+        "Jim Abrahams",
+        "Jerry Zucker"
+      ],
+      "runtime": 88,
+      "overview": "Airplane! (alternatively titled Flying High!) is a 1980 American comedy film written and directed by David Zucker, Jim Abrahams, and Jerry Zucker in their directorial debut, and produced by Jon Davison. It stars Robert Hays and Julie Hagerty and features Leslie Nielsen, Robert Stack, Lloyd Bridges, Peter Graves, Lorna Patterson, Stephen Stucker, and Kareem Abdul-Jabbar.",
+      "overview_source": "https://en.wikipedia.org/wiki/Airplane!",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 46328,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q498906",
+      "tmdb_id": 9377,
+      "imdb_id": "tt0091042",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986,
+      "genre": "Comedy",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "John Hughes"
+      ],
+      "runtime": 103,
+      "overview": "Ferris Bueller's Day Off is a 1986 American comedy film written, co-produced, and directed by John Hughes. It stars Matthew Broderick, Mia Sara, and Alan Ruck, with supporting roles from Jennifer Grey, Jeffrey Jones, Cindy Pickett, Edie McClurg, Lyman Ward and Charlie Sheen.",
+      "overview_source": "https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 56429,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q488655",
+      "tmdb_id": 137,
+      "imdb_id": "tt0107048",
+      "title": "Groundhog Day",
+      "year": 1993,
+      "genre": "Comedy",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Harold Ramis"
+      ],
+      "runtime": 101,
+      "overview": "Groundhog Day is a 1993 American fantasy romantic comedy film directed by Harold Ramis, who co-wrote the screenplay with Danny Rubin. Starring Bill Murray, Andie MacDowell, and Chris Elliott, it tells the story of a cynical television weatherman covering the annual Groundhog Day event in Punxsutawney, Pennsylvania, who becomes trapped in a time loop, forcing him to relive February 2 repeatedly.",
+      "overview_source": "https://en.wikipedia.org/wiki/Groundhog_Day_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 42695,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q931165",
+      "tmdb_id": 9603,
+      "imdb_id": "tt0112697",
+      "title": "Clueless",
+      "year": 1995,
+      "genre": "Comedy",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "directors": [
+        "Amy Heckerling"
+      ],
+      "runtime": 97,
+      "overview": "Clueless is a 1995 American coming-of-age teen comedy film written and directed by Amy Heckerling. It stars Alicia Silverstone and was produced by Scott Rudin and Robert Lawrence.",
+      "overview_source": "https://en.wikipedia.org/wiki/Clueless",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 40519,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q337078",
+      "tmdb_id": 115,
+      "imdb_id": "tt0118715",
+      "title": "The Big Lebowski",
+      "year": 1998,
+      "genre": "Comedy",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ],
+      "runtime": 117,
+      "overview": "The Big Lebowski () is a 1998 neo-noir crime comedy film written, directed, produced and co-edited by Joel and Ethan Coen, and starring Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, and John Turturro. It follows the life of Jeffrey \"The Dude\" Lebowski, a Los Angeles slacker and avid bowler who is assaulted as a result of mistaken identity and becomes embroiled in a kidnapping and ransom scheme focused on a millionaire who shares his name.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Big_Lebowski",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 64982,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q679611",
+      "tmdb_id": 8363,
+      "imdb_id": "tt0829482",
+      "title": "Superbad",
+      "year": 2007,
+      "genre": "Comedy",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Greg Mottola"
+      ],
+      "runtime": 114,
+      "overview": "Superbad is a 2007 American coming-of-age teen buddy comedy film directed by Greg Mottola, written by Seth Rogen and Evan Goldberg, and produced by Judd Apatow. It stars Jonah Hill and Michael Cera as Seth and Evan, two teenagers about to graduate from high school. Before graduating, the boys want to party and lose their virginity, but their plan proves harder than expected. Christopher Mintz-Plasse (in his film debut), Rogen, Bill Hader, Martha MacIsaac, and Emma Stone (in her film debut) provide supporting roles.",
+      "overview_source": "https://en.wikipedia.org/wiki/Superbad",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 47743,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q3521099",
+      "tmdb_id": 120467,
+      "imdb_id": "tt2278388",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "genre": "Comedy",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Crime",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Wes Anderson"
+      ],
+      "runtime": 99,
+      "overview": "The Grand Budapest Hotel is a 2014 comedy-drama film written and directed by Wes Anderson. The film's seventeen-actor ensemble cast is led by Ralph Fiennes as Monsieur Gustave H., famed concierge of a twentieth-century mountainside resort in the fictional country of Zubrowka.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 65544,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q17036671",
+      "tmdb_id": 246741,
+      "imdb_id": "tt3416742",
+      "title": "What We Do in the Shadows",
+      "year": 2014,
+      "genre": "Comedy",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "directors": [
+        "Jemaine Clement",
+        "Taika Waititi"
+      ],
+      "runtime": 86,
+      "overview": "What We Do in the Shadows is a 2014 New Zealand mockumentary comedy horror film written and directed by Jemaine Clement and Taika Waititi and the first installment in the What We Do in the Shadows franchise. The film also stars Clement and Waititi, along with Jonathan Brugh, Ben Fransham, Cori Gonzalez-Macuer, Stu Rutherford, and Jackie van Beek. The film's plot concerns several vampires who live together in a flat in Wellington.",
+      "overview_source": "https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 39992,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q22236109",
+      "tmdb_id": 371645,
+      "imdb_id": "tt4698684",
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016,
+      "genre": "Comedy",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Taika Waititi"
+      ],
+      "runtime": 101,
+      "overview": "Hunt for the Wilderpeople is a 2016 New Zealand adventure comedy film produced, written and directed by Taika Waititi, based on the 1986 novel Wild Pork and Watercress by Barry Crump. Sam Neill and Julian Dennison star as \"Uncle\" Hector and Ricky Baker: a father figure and foster son who become the targets of a manhunt after fleeing into the New Zealand bush.",
+      "overview_source": "https://en.wikipedia.org/wiki/Hunt_for_the_Wilderpeople",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 38270,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q27590871",
+      "tmdb_id": 346648,
+      "imdb_id": "tt4468740",
+      "title": "Paddington 2",
+      "year": 2017,
+      "genre": "Comedy",
+      "genres": [
+        "Comedy",
+        "Adventure"
+      ],
+      "directors": [
+        "Paul King"
+      ],
+      "runtime": 103,
+      "overview": "Paddington 2 is a 2017 live-action animated comedy film directed by Paul King from a screenplay written by King and Simon Farnaby. Based on the stories of Paddington Bear created by Michael Bond (to whom the film is also dedicated), it is the sequel to Paddington (2014) and the second installment in the Paddington film series.",
+      "overview_source": "https://en.wikipedia.org/wiki/Paddington_2",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 18560,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q55605752",
+      "tmdb_id": 505600,
+      "imdb_id": "tt1489887",
+      "title": "Booksmart",
+      "year": 2019,
+      "genre": "Comedy",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Olivia Wilde"
+      ],
+      "runtime": 102,
+      "overview": "Booksmart is a 2019 American coming-of-age comedy film directed by Olivia Wilde (in her feature directorial debut) and written by Emily Halpern, Sarah Haskins, Susanna Fogel, and Katie Silberman. It stars Beanie Feldstein and Kaitlyn Dever as two graduating high school girls who set out to finally break the rules and party on their last day of classes. Jessica Williams, Lisa Kudrow, Will Forte, and Jason Sudeikis also star.",
+      "overview_source": "https://en.wikipedia.org/wiki/Booksmart",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 32346,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q189540",
+      "tmdb_id": 346,
+      "imdb_id": "tt0047478",
+      "title": "Seven Samurai",
+      "year": 1954,
+      "genre": "Action",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "runtime": 207,
+      "overview": "Seven Samurai (Japanese: 七人の侍, Hepburn: Shichinin no Samurai) is a 1954 Japanese epic jidaigeki film directed by Akira Kurosawa from a screenplay co-written with Shinobu Hashimoto and Hideo Oguni. Starring Toshirō Mifune, Takashi Shimura, Keiko Tsushima and Yukiko Shimazaki, it tells the story of a village of peasants who hire seven samurai to help defend their village from bandits who will return after the harvest to steal their crops.",
+      "overview_source": "https://en.wikipedia.org/wiki/Seven_Samurai",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Seven_Samurai_poster2.jpg/500px-Seven_Samurai_poster2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Seven_Samurai_poster2.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 36587,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q189505",
+      "tmdb_id": 578,
+      "imdb_id": "tt0073195",
+      "title": "Jaws",
+      "year": 1975,
+      "genre": "Thriller",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller",
+        "Adventure"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "runtime": 124,
+      "overview": "Jaws is a 1975 American  thriller film directed by Steven Spielberg, based on the 1974 novel by Peter Benchley. It stars Roy Scheider as police chief Martin Brody, who with the help of a marine biologist (Richard Dreyfuss) and a professional shark hunter (Robert Shaw) hunts a man-eating great white shark that attacks beachgoers at a New England resort town. Murray Hamilton plays the town's mayor, and Lorraine Gary portrays Brody's wife.",
+      "overview_source": "https://en.wikipedia.org/wiki/Jaws_(film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Jaws_movie_poster.png/500px-Jaws_movie_poster.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Jaws_movie_poster.png",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 80213,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q174284",
+      "tmdb_id": 85,
+      "imdb_id": "tt0082971",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "genre": "Action",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "runtime": 115,
+      "overview": "Raiders of the Lost Ark is a 1981 American action-adventure film directed by Steven Spielberg and written by Lawrence Kasdan, based on a story by George Lucas and Philip Kaufman. Set in 1936, the film stars Harrison Ford as Indiana Jones, a globetrotting archaeologist vying with Nazi German forces to recover the long-lost Ark of the Covenant which is said to make an army invincible.",
+      "overview_source": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 68596,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q105598",
+      "tmdb_id": 562,
+      "imdb_id": "tt0095016",
+      "title": "Die Hard",
+      "year": 1988,
+      "genre": "Action",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "John McTiernan"
+      ],
+      "runtime": 131,
+      "overview": "Die Hard is a 1988 American action film directed by John McTiernan and written by Jeb Stuart and Steven E. de Souza, based on the 1979 novel Nothing Lasts Forever by Roderick Thorp. It stars Bruce Willis, Alan Rickman, Alexander Godunov, and Bonnie Bedelia, with Reginald VelJohnson, William Atherton, Paul Gleason, and Hart Bochner in supporting roles.",
+      "overview_source": "https://en.wikipedia.org/wiki/Die_Hard",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 46980,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q170564",
+      "tmdb_id": 280,
+      "imdb_id": "tt0103064",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "genre": "Action",
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Thriller",
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "runtime": 137,
+      "overview": "Terminator 2: Judgment Day is a 1991 American science fiction action film directed by James Cameron, who co-wrote the script with William Wisher. Starring Arnold Schwarzenegger, Linda Hamilton, and Robert Patrick, it is the sequel to The Terminator (1984) and is the second installment in the Terminator franchise.",
+      "overview_source": "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 92396,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q273978",
+      "tmdb_id": 146,
+      "imdb_id": "tt0190332",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "genre": "Action",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Ang Lee"
+      ],
+      "runtime": 115,
+      "overview": "Crouching Tiger, Hidden Dragon is a 2000 wuxia film directed by Ang Lee and written for the screen by Wang Hui-ling, James Schamus, and Tsai Kuo-jung. It is based on the Chinese novel of the same name, serialized between 1941 and 1942 by Wang Dulu, the fourth part of his Crane-Iron Series. It stars Chow Yun-fat, Michelle Yeoh, Zhang Ziyi, Chang Chen and Cheng Pei-pei in the leading roles.",
+      "overview_source": "https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 47574,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q163872",
+      "tmdb_id": 155,
+      "imdb_id": "tt0468569",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": "Action",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "runtime": 155,
+      "overview": "The Dark Knight is a 2008 superhero film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan. Based on the DC Comics superhero Batman, it is the sequel to Batman Begins (2005), and the second installment in The Dark Knight trilogy. The plot follows the vigilante Batman, police lieutenant James Gordon, and district attorney Harvey Dent, who form an alliance to dismantle organized crime in Gotham City.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Dark_Knight",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 122571,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q1573662",
+      "tmdb_id": 94329,
+      "imdb_id": "tt1899353",
+      "title": "The Raid",
+      "year": 2011,
+      "genre": "Action",
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "directors": [
+        "Gareth Evans"
+      ],
+      "runtime": 101,
+      "overview": "The Raid (released as The Raid: Redemption in the United States) is a 2011 Indonesian action thriller film written, edited, and directed by Welsh filmmaker Gareth Evans. The film stars Iko Uwais, Joe Taslim, Donny Alamsyah, Ray Sahetapy and Yayan Ruhian. The story follows an Indonesian National Police tactical squad that is deployed to raid a ruthless drug lord's apartment block in the slums of Jakarta, only to be encircled by the criminals, forcing them to fight their way through the complex.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Raid_(2011_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 19948,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q15732802",
+      "tmdb_id": 245891,
+      "imdb_id": "tt2911666",
+      "title": "John Wick",
+      "year": 2014,
+      "genre": "Action",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action"
+      ],
+      "directors": [
+        "Chad Stahelski",
+        "David Leitch"
+      ],
+      "runtime": 101,
+      "overview": "John Wick is a 2014 American action thriller film directed by Chad Stahelski and written by Derek Kolstad. Keanu Reeves stars as John Wick, a legendary hitman who comes out of retirement to seek revenge against the men who killed his dog, a final gift from his recently deceased wife. The film also stars Michael Nyqvist, Alfie Allen, Adrianne Palicki, Bridget Moynahan, Dean Winters, Ian McShane, John Leguizamo, and Willem Dafoe.",
+      "overview_source": "https://en.wikipedia.org/wiki/John_Wick_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 62904,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q1757288",
+      "tmdb_id": 76341,
+      "imdb_id": "tt1392190",
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "genre": "Action",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "George Miller"
+      ],
+      "runtime": 120,
+      "overview": "Mad Max: Fury Road is a 2015 Australian post-apocalyptic action film co-written, co-produced and directed by George Miller, who collaborated with Brendan McCarthy and Nico Lathouris on the screenplay. The fourth instalment in the Mad Max franchise, it was produced by Village Roadshow Pictures and Kennedy Miller Mitchell, and distributed by Roadshow Entertainment in Australia and by Warner Bros. Pictures internationally.",
+      "overview_source": "https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 49222,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q29261993",
+      "tmdb_id": 353081,
+      "imdb_id": "tt4912910",
+      "title": "Mission: Impossible – Fallout",
+      "year": 2018,
+      "genre": "Action",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "Christopher McQuarrie"
+      ],
+      "runtime": 147,
+      "overview": "Mission: Impossible – Fallout is a 2018 American action spy film written and directed by Christopher McQuarrie. It is the sequel to Mission: Impossible – Rogue Nation (2015) and the sixth installment in the Mission: Impossible film series. The ensemble cast includes Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg, Rebecca Ferguson, Sean Harris, Angela Bassett, Vanessa Kirby, Michelle Monaghan, and Alec Baldwin.",
+      "overview_source": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Fallout",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 47026,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q60424165",
+      "tmdb_id": 579974,
+      "imdb_id": "tt8178634",
+      "title": "RRR",
+      "year": 2022,
+      "genre": "Action",
+      "genres": [
+        "Action"
+      ],
+      "directors": [
+        "S. S. Rajamouli"
+      ],
+      "runtime": 187,
+      "overview": "RRR is a 2022 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the screenplay with V. Vijayendra Prasad. Produced by D. V. V. Danayya under DVV Entertainment, the film stars  N. T. Rama Rao Jr. and Ram Charan in lead roles. It also features an ensemble cast of Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody and Olivia Morris in supporting roles. It marks the Telugu film debuts of Devgn, Bhatt, Stevenson, Doody and Morris.",
+      "overview_source": "https://en.wikipedia.org/wiki/RRR",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 67428,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q31202708",
+      "tmdb_id": 361743,
+      "imdb_id": "tt1745960",
+      "title": "Top",
+      "year": 2022,
+      "genre": "Action",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "directors": [
+        "Joseph Kosinski"
+      ],
+      "runtime": 131,
+      "overview": "Top Gun: Maverick is a 2022 American action drama film directed by Joseph Kosinski and written by Ehren Kruger, Eric Warren Singer, and Christopher McQuarrie, from a story by Peter Craig and Justin Marks. It is the sequel to the 1986 film Top Gun, with Tom Cruise reprising his starring role as the naval aviator Pete \"Maverick\" Mitchell. The ensemble cast also features Miles Teller, Jennifer Connelly, Jon Hamm, Glen Powell, Monica Barbaro, Lewis Pullman, Ed Harris, and Val Kilmer (in his final film role).",
+      "overview_source": "https://en.wikipedia.org/wiki/Top_Gun:_Maverick",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 134779,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q100361125",
+      "tmdb_id": 786892,
+      "imdb_id": "tt12037194",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024,
+      "genre": "Action",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "George Miller"
+      ],
+      "runtime": 148,
+      "overview": "Furiosa: A Mad Max Saga is a 2024 epic post-apocalyptic action film directed and produced by George Miller, who wrote the screenplay with Nico Lathouris. It is the fifth installment in the Mad Max franchise, and the first not focused on Max Rockatansky, instead a spinoff prequel to Mad Max: Fury Road (2015) and an origin story for Furiosa.",
+      "overview_source": "https://en.wikipedia.org/wiki/Furiosa:_A_Mad_Max_Saga",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 47784,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q116547790",
+      "tmdb_id": 1061474,
+      "imdb_id": "tt5950044",
+      "title": "Superman",
+      "year": 2025,
+      "genre": "Action",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "directors": [
+        "James Gunn"
+      ],
+      "runtime": 129,
+      "overview": "Superman is a 2025 American superhero film written and directed by James Gunn. Based on the DC Comics character Superman, it is the first film in the DC Universe (DCU) and a reboot of the Superman film series. David Corenswet stars as Kal-El / Clark Kent / Superman, alongside Rachel Brosnahan, Nicholas Hoult, Edi Gathegi, Anthony Carrigan, Nathan Fillion, and Isabela Merced.",
+      "overview_source": "https://en.wikipedia.org/wiki/Superman_(2025_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 178950,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q221462",
+      "tmdb_id": 963,
+      "imdb_id": "tt0033870",
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "genre": "Mystery",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "John Huston"
+      ],
+      "runtime": 101,
+      "overview": "The Maltese Falcon is a 1941 American film noir written and directed by John Huston, marking Huston's directorial debut. It is the third film adaptation of Dashiell Hammett's 1930 novel, following the 1931 version directed by Roy Del Ruth, and the 1936 William Dieterle–directed Satan Met a Lady.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Maltese_Falcon_(1941_film)",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/The_Maltese_Falcon_%281941_film_poster%29.jpg/500px-The_Maltese_Falcon_%281941_film_poster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:The_Maltese_Falcon_(1941_film_poster).jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 34410,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q135465",
+      "tmdb_id": 548,
+      "imdb_id": "tt0042876",
+      "title": "Rashomon",
+      "year": 1950,
+      "genre": "Crime",
+      "genres": [
+        "Crime",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "runtime": 88,
+      "overview": "Rashomon (Japanese: 羅生門, Hepburn: Rashōmon) is a 1950 Japanese jidaigeki (period drama) psychological thriller film directed by Akira Kurosawa from a screenplay he co-wrote with Shinobu Hashimoto. Starring Toshiro Mifune, Machiko Kyō, Masayuki Mori, and Takashi Shimura, it follows various people who describe how a samurai was murdered in a forest. The plot and characters are based upon Ryūnosuke Akutagawa's short story \"In a Grove\", with the title and framing story taken from Akutagawa's \"Rashōmon\".",
+      "overview_source": "https://en.wikipedia.org/wiki/Rashomon",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Rashomon_%28US_poster%29.jpg/500px-Rashomon_%28US_poster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Rashomon_(US_poster).jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 26914,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q644987",
+      "tmdb_id": 829,
+      "imdb_id": "tt0071315",
+      "title": "Chinatown",
+      "year": 1974,
+      "genre": "Mystery",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Roman Polanski"
+      ],
+      "runtime": 133,
+      "overview": "Chinatown is a 1974 American neo-noir mystery film directed by Roman Polanski and written by Robert Towne. It stars Jack Nicholson and Faye Dunaway, with supporting performances from John Huston, John Hillerman, Perry Lopez, Burt Young, Joe Mantell, Bruce Glover, James Hong and Diane Ladd. The film's story is inspired by the California water wars which were a series of disputes over Southern California water at the beginning of the 20th century that resulted in Los Angeles securing water rights in the Owens Valley.",
+      "overview_source": "https://en.wikipedia.org/wiki/Chinatown_(1974_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 46910,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q104123",
+      "tmdb_id": 680,
+      "imdb_id": "tt0110912",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": "Crime",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "runtime": 154,
+      "overview": "Pulp Fiction is a 1994 American crime film written and directed by Quentin Tarantino from a story he conceived with Roger Avary. It tells four intertwining tales of crime and violence in Los Angeles. The film stars John Travolta, Samuel L. Jackson, Bruce Willis, Tim Roth, Ving Rhames, and Uma Thurman. The title refers to the pulp magazines and hardboiled crime novels popular during the mid-twentieth century, known for their graphic violence and punchy dialogue.",
+      "overview_source": "https://en.wikipedia.org/wiki/Pulp_Fiction",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 126341,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q132351",
+      "tmdb_id": 629,
+      "imdb_id": "tt0114814",
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "genre": "Mystery",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Bryan Singer"
+      ],
+      "runtime": 106,
+      "overview": "The Usual Suspects is a 1995 crime thriller film directed by Bryan Singer and written by Christopher McQuarrie. It stars Kevin Spacey, Gabriel Byrne, Benicio del Toro, Stephen Baldwin, Kevin Pollak, Chazz Palminteri and Pete Postlethwaite.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Usual_Suspects",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 76683,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q190908",
+      "tmdb_id": 807,
+      "imdb_id": "tt0114369",
+      "title": "Seven",
+      "year": 1995,
+      "genre": "Crime",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "runtime": 127,
+      "overview": "Seven (often stylized as Se7en) is a 1995 American crime thriller film directed by David Fincher and written by Andrew Kevin Walker. It stars Brad Pitt and Morgan Freeman, with Gwyneth Paltrow and John C. McGinley in supporting roles.",
+      "overview_source": "https://en.wikipedia.org/wiki/Seven_(1995_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 100569,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q222720",
+      "tmdb_id": 275,
+      "imdb_id": "tt0116282",
+      "title": "Fargo",
+      "year": 1996,
+      "genre": "Crime",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ],
+      "runtime": 98,
+      "overview": "Fargo is a 1996 crime comedy film written, directed, produced and edited by Joel and Ethan Coen. It stars Frances McDormand, William H. Macy, Steve Buscemi, Harve Presnell, and Peter Stormare. The film follows a pregnant police chief (McDormand), who investigates after a car salesman (Macy) hires two dimwitted criminals (Buscemi and Stormare) to kidnap his wife to extort a ransom from her wealthy father.",
+      "overview_source": "https://en.wikipedia.org/wiki/Fargo_(1996_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 81282,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q339876",
+      "tmdb_id": 2118,
+      "imdb_id": "tt0119488",
+      "title": "L.A. Confidential",
+      "year": 1997,
+      "genre": "Crime",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Curtis Hanson"
+      ],
+      "runtime": 132,
+      "overview": "L.A. Confidential is a 1997 American neo-noir crime thriller film directed, produced, and co-written by Curtis Hanson. The screenplay, by Hanson and Brian Helgeland, is based on James Ellroy's 1990 novel, the third book in his L.A. Quartet series. The film tells the story of a group of LAPD officers in 1953, and the intersection of police corruption and Hollywood celebrity. The title refers to the 1950s scandal magazine Confidential, portrayed in the film as Hush-Hush.",
+      "overview_source": "https://en.wikipedia.org/wiki/L.A._Confidential_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 54901,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q190525",
+      "tmdb_id": 77,
+      "imdb_id": "tt0209144",
+      "title": "Memento",
+      "year": 2000,
+      "genre": "Mystery",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "runtime": 113,
+      "overview": "Memento is a 2000 American neo-noir psychological thriller film written and directed by Christopher Nolan, based on the 2001 short story \"Memento Mori\" by his brother, Jonathan Nolan. Starring Guy Pearce, Carrie-Anne Moss, and Joe Pantoliano, the film follows Leonard Shelby (Pearce), a man who has anterograde amnesia, resulting in the inability to form new long-term memories.",
+      "overview_source": "https://en.wikipedia.org/wiki/Memento_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 84247,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q488169",
+      "tmdb_id": 11423,
+      "imdb_id": "tt0353969",
+      "title": "Memories of Murder",
+      "year": 2003,
+      "genre": "Crime",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Bong Joon-ho"
+      ],
+      "runtime": 132,
+      "overview": "Memories of Murder (Korean: 살인의 추억) is a 2003 South Korean neo-noir crime thriller film directed by Bong Joon Ho, from a screenplay by Bong and Shim Sung-bo, and based on the 1996 play Come to See Me by Kim Kwang-lim. It stars Song Kang-ho and Kim Sang-kyung. In the film, detectives Park Doo-man (Song) and Seo Tae-yoon (Kim) lead an investigation into a string of rapes and murders taking place in Hwaseong in the late 1980s, by a man known as the Hwaesong Killer.",
+      "overview_source": "https://en.wikipedia.org/wiki/Memories_of_Murder",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 44175,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q475693",
+      "tmdb_id": 670,
+      "imdb_id": "tt0364569",
+      "title": "Oldboy",
+      "year": 2003,
+      "genre": "Thriller",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ],
+      "runtime": 116,
+      "overview": "Oldboy (Korean: 올드보이) is a 2003 South Korean action thriller film directed and co-written by Park Chan-wook. A loose adaptation of the Japanese manga Old Boy by Garon Tsuchiya and Nobuaki Minegishi, the film follows Oh Dae-su (Choi Min-sik), who is imprisoned for 15 years without knowing the identity of his captor or his captor's motives.",
+      "overview_source": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 70053,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q218172",
+      "tmdb_id": 1949,
+      "imdb_id": "tt0443706",
+      "title": "Zodiac",
+      "year": 2007,
+      "genre": "Mystery",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "runtime": 157,
+      "overview": "Zodiac is a 2007 American crime thriller film directed by David Fincher and written by James Vanderbilt, based on the non-fiction books by Robert Graysmith: Zodiac (1986) and Zodiac Unmasked (2002). It stars Jake Gyllenhaal, Mark Ruffalo, and Robert Downey Jr., with Anthony Edwards, Brian Cox, Elias Koteas, Donal Logue, John Carroll Lynch, Chloë Sevigny, Philip Baker Hall, and Dermot Mulroney in supporting roles.",
+      "overview_source": "https://en.wikipedia.org/wiki/Zodiac_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 90695,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q183081",
+      "tmdb_id": 6977,
+      "imdb_id": "tt0477348",
+      "title": "No Country for Old Men",
+      "year": 2007,
+      "genre": "Crime",
+      "genres": [
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Action",
+        "Adventure",
+        "Western",
+        "Drama"
+      ],
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ],
+      "runtime": 122,
+      "overview": "No Country for Old Men is a 2007 American neo-Western crime thriller film written, directed, produced, and edited by Joel and Ethan Coen, based on Cormac McCarthy's 2005 novel. Starring Tommy Lee Jones, Javier Bardem, and Josh Brolin, the film is set in the desert landscape of 1980 West Texas, United States. The film revisits the themes of fate, conscience, and circumstance that the Coen brothers had explored in the films Blood Simple (1984), Raising Arizona (1987), and Fargo (1996).",
+      "overview_source": "https://en.wikipedia.org/wiki/No_Country_for_Old_Men",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 154876,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q3404003",
+      "tmdb_id": 146233,
+      "imdb_id": "tt1392214",
+      "title": "Prisoners",
+      "year": 2013,
+      "genre": "Crime",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "runtime": 153,
+      "overview": "Prisoners is a 2013 American crime thriller film directed by Denis Villeneuve and written by Aaron Guzikowski. The film has an ensemble cast including Hugh Jackman, Jake Gyllenhaal, Viola Davis, Maria Bello, Terrence Howard, Melissa Leo, and Paul Dano.",
+      "overview_source": "https://en.wikipedia.org/wiki/Prisoners_(2013_film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 104309,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q57982486",
+      "tmdb_id": 546554,
+      "imdb_id": "tt8946378",
+      "title": "Knives Out",
+      "year": 2019,
+      "genre": "Mystery",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Rian Johnson"
+      ],
+      "runtime": 130,
+      "overview": "Knives Out is a 2019 American mystery film written and directed by Rian Johnson. The film's eleven-actor ensemble cast is led by Daniel Craig as Benoit Blanc, a famed private detective who is summoned to investigate the death of a bestselling author (Christopher Plummer). Police think his death is a suicide but Blanc suspects foul play and investigates to ascertain the true cause of it. Johnson produced Knives Out with his longtime collaborator Ram Bergman.",
+      "overview_source": "https://en.wikipedia.org/wiki/Knives_Out",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 85915,
+      "tags": [
+        "starter"
+      ]
+    },
+    {
+      "wikidata_id": "Q100889636",
+      "tmdb_id": 705996,
+      "imdb_id": "tt12477480",
+      "title": "Decision to Leave",
+      "year": 2022,
+      "genre": "Mystery",
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Drama"
+      ],
+      "directors": [
+        "Park Chan-wook"
+      ],
+      "runtime": 138,
+      "overview": "Decision to Leave (Korean: 헤어질 결심; RR: Heeojil gyeolsim; lit. 'Resolution to Break Up') is a 2022 South Korean neo-noir romantic mystery film directed, co-written and produced by Park Chan-wook. The film follows married detective Jang Hae-jun (Park Hae-il), whose investigation of a man's death leads him to the man's widow, Chinese immigrant Song Seo-rae (Tang Wei). Hae-jun's investigation of Seo-rae as a suspect gradually leads him to develop feelings towards her.",
+      "overview_source": "https://en.wikipedia.org/wiki/Decision_to_Leave",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 18070,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q829250",
+      "tmdb_id": 26317,
+      "imdb_id": "tt0019760",
+      "title": "Man with a Movie Camera",
+      "year": 1929,
+      "genre": "Documentary",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Dziga Vertov"
+      ],
+      "runtime": 68,
+      "overview": "Man with a Movie Camera is a 1929 Soviet experimental silent documentary film, written and directed by Dziga Vertov. It was filmed by his brother Mikhail Kaufman (who also appears as the titular cameraman), and edited by Vertov's wife Yelizaveta Svilova.",
+      "overview_source": "https://en.wikipedia.org/wiki/Man_with_a_Movie_Camera",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 15117,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q257515",
+      "tmdb_id": 10513,
+      "imdb_id": "tt0052077",
+      "title": "Plan 9 from Outer Space",
+      "year": 1959,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Action"
+      ],
+      "directors": [
+        "Ed Wood"
+      ],
+      "runtime": 79,
+      "overview": "Plan 9 from Outer Space is a 1957 American independent science fiction-horror film produced, written, directed, and edited by Ed Wood. The film was shot in black-and-white in November 1956 and had a preview screening on March 15, 1957, at the Carlton Theatre in Los Angeles under the title Grave Robbers from Outer Space.",
+      "overview_source": "https://en.wikipedia.org/wiki/Plan_9_from_Outer_Space",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Plan_nine_from_outer_space.jpg/500px-Plan_nine_from_outer_space.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Plan_nine_from_outer_space.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 18735,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q41483",
+      "tmdb_id": 429,
+      "imdb_id": "tt0060196",
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "genre": "Western",
+      "genres": [
+        "Action",
+        "Western",
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Sergio Leone"
+      ],
+      "runtime": 177,
+      "overview": "The Good, the Bad and the Ugly (Italian: Il buono, il brutto, il cattivo, lit. 'The good, the ugly, the bad') is a 1966 Italian epic spaghetti Western film directed by Sergio Leone and starring Clint Eastwood as \"the Good\", Lee Van Cleef as \"the Bad\", and Eli Wallach as \"the Ugly\". Its screenplay was written by Age & Scarpelli, Luciano Vincenzoni, and Leone, based on a story by Vincenzoni and Leone.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 55185,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q368577",
+      "tmdb_id": 343,
+      "imdb_id": "tt0067185",
+      "title": "Harold and Maude",
+      "year": 1971,
+      "genre": "Comedy",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "directors": [
+        "Hal Ashby"
+      ],
+      "runtime": 91,
+      "overview": "Harold and Maude is a 1971 American romantic black comedy-drama film directed by Hal Ashby and released by Paramount Pictures. It incorporates elements of dark humour and existentialist drama. The plot follows the exploits of Harold Chasen (Bud Cort), a young man who is obsessed with death, and who rejects the life his detached mother (Vivian Pickles) prescribes for him.",
+      "overview_source": "https://en.wikipedia.org/wiki/Harold_and_Maude",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 27433,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q751921",
+      "tmdb_id": 36685,
+      "imdb_id": "tt0073629",
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975,
+      "genre": "Musical",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Comedy",
+        "Thriller",
+        "Musical"
+      ],
+      "directors": [
+        "Jim Sharman"
+      ],
+      "runtime": 100,
+      "overview": "The Rocky Horror Picture Show is a 1975 musical comedy horror film produced by Lou Adler and Michael White, directed by Jim Sharman, and distributed by 20th Century Fox. The film is based on the 1973 musical stage production The Rocky Horror Show, with music, book and lyrics by Richard O'Brien.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 172614,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q11618",
+      "tmdb_id": 985,
+      "imdb_id": "tt0074486",
+      "title": "Eraserhead",
+      "year": 1977,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "runtime": 89,
+      "overview": "Eraserhead is a 1977 American horror film written, directed, produced, and edited by David Lynch in his feature-length directorial debut. Lynch also created its score and sound design, which included pieces by a variety of other musicians. Shot in black and white and surrealist style, the independent film was Lynch's first feature-length effort following several short films.",
+      "overview_source": "https://en.wikipedia.org/wiki/Eraserhead",
+      "poster_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Eraserhead_-_Filmex_%2777_poster.jpg/500px-Eraserhead_-_Filmex_%2777_poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "poster_page": "https://commons.wikimedia.org/wiki/File:Eraserhead_-_Filmex_%2777_poster.jpg",
+      "poster_credit": "Public domain, via Wikimedia Commons",
+      "popularity": 49760,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q182692",
+      "tmdb_id": 28,
+      "imdb_id": "tt0078788",
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "genre": "War",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Thriller",
+        "Action",
+        "Adventure",
+        "War",
+        "Drama"
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "runtime": 202,
+      "overview": "Apocalypse Now is a 1979 American epic war film produced and directed by Francis Ford Coppola. The screenplay, written by Coppola and John Milius, with narration written  by Michael Herr, is inspired by Joseph Conrad's 1899 novella Heart of Darkness, with the setting changed from the late 19th-century Congo to the Vietnam War.",
+      "overview_source": "https://en.wikipedia.org/wiki/Apocalypse_Now",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 106609,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q747551",
+      "tmdb_id": 837,
+      "imdb_id": "tt0086541",
+      "title": "Videodrome",
+      "year": 1983,
+      "genre": "Horror",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ],
+      "directors": [
+        "David Cronenberg"
+      ],
+      "runtime": 89,
+      "overview": "Videodrome is a 1983 Canadian science fiction body horror film written and directed by David Cronenberg and starring James Woods, Sonja Smits, and Debbie Harry. Set in Toronto during the early 1980s, it follows the CEO of a small UHF television station who stumbles upon a broadcast signal of snuff films. Layers of deception and mind-control conspiracy unfold as he attempts to uncover the signal's source, complicated by increasingly intense hallucinations that cause him to lose his grip on reality.",
+      "overview_source": "https://en.wikipedia.org/wiki/Videodrome",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 57853,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q1280565",
+      "tmdb_id": 13820,
+      "imdb_id": "tt0087995",
+      "title": "Repo Man",
+      "year": 1984,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Action"
+      ],
+      "directors": [
+        "Alex Cox"
+      ],
+      "runtime": 92,
+      "overview": "Repo Man is a 1984 American science fiction black comedy film written and directed by Alex Cox in his directorial debut. It stars Harry Dean Stanton and Emilio Estevez, with Tracey Walter, Olivia Barash, Sy Richardson, Vonetta McGee, Fox Harris, and Dick Rude among the supporting cast. Set in Los Angeles, the plot concerns a young  punk man (Estevez) who is recruited by a car repossession agency and gets caught up in the pursuit of a mysterious Chevrolet Malibu that might be connected to extraterrestrials.",
+      "overview_source": "https://en.wikipedia.org/wiki/Repo_Man_(film)",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 18489,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q2351784",
+      "tmdb_id": 24128,
+      "imdb_id": "tt0088178",
+      "title": "Stop Making Sense",
+      "year": 1984,
+      "genre": "Documentary",
+      "genres": [
+        "Musical",
+        "Documentary"
+      ],
+      "directors": [
+        "Jonathan Demme"
+      ],
+      "runtime": 88,
+      "overview": "Stop Making Sense is a 1984 American concert film featuring a live performance by the American rock band Talking Heads. The film was directed by Jonathan Demme, produced by Gary Goetzman, and executive produced by Gary Kurfirst, the band’s longtime manager. The film was shot over four nights in December 1983 at Hollywood's Pantages Theatre while Talking Heads were on tour promoting their fifth studio album, Speaking in Tongues (1983).",
+      "overview_source": "https://en.wikipedia.org/wiki/Stop_Making_Sense",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 15458,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q859494",
+      "tmdb_id": 6978,
+      "imdb_id": "tt0090728",
+      "title": "Big Trouble in Little China",
+      "year": 1986,
+      "genre": "Action",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Action"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "runtime": 99,
+      "overview": "Big Trouble in Little China (also known as John Carpenter's Big Trouble in Little China) is a 1986 American fantasy action-comedy film directed by John Carpenter, and starring Kurt Russell, Kim Cattrall, Dennis Dun and James Hong. The film tells the story of truck driver Jack Burton (Russell), who helps his friend Wang Chi (Dun) rescue Wang's green-eyed fiancée from bandits in San Francisco's Chinatown.",
+      "overview_source": "https://en.wikipedia.org/wiki/Big_Trouble_in_Little_China",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 32846,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q1551916",
+      "tmdb_id": 2640,
+      "imdb_id": "tt0097493",
+      "title": "Heathers",
+      "year": 1988,
+      "genre": "Comedy",
+      "genres": [
+        "Comedy",
+        "Mystery"
+      ],
+      "directors": [
+        "Michael Lehmann"
+      ],
+      "runtime": 103,
+      "overview": "Heathers is a 1988 American satirical teen film written by Daniel Waters and directed by Michael Lehmann, in both of their respective film debuts. The film stars Winona Ryder, Christian Slater, Shannen Doherty, Lisanne Falk, Kim Walker and Penelope Milford. It follows downtrodden high school student Veronica Sawyer—the only girl of her school clique not to be named Heather—who falls in love with Jason \"J.D.\" Dean, a misanthropic newcomer intent on murdering the popular students and staging their deaths as suicides.",
+      "overview_source": "https://en.wikipedia.org/wiki/Heathers",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 42753,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q1044523",
+      "tmdb_id": 1542,
+      "imdb_id": "tt0151804",
+      "title": "Office Space",
+      "year": 1999,
+      "genre": "Comedy",
+      "genres": [
+        "Comedy"
+      ],
+      "directors": [
+        "Mike Judge"
+      ],
+      "runtime": 89,
+      "overview": "Office Space is a 1999 American satirical black comedy film written and directed by Mike Judge. It satirizes the office work life of a typical 1990s software company, focusing on a handful of individuals weary of their jobs. It stars Ron Livingston, Jennifer Aniston, Gary Cole, Stephen Root, David Herman, Ajay Naidu, and Diedrich Bader.",
+      "overview_source": "https://en.wikipedia.org/wiki/Office_Space",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 66245,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q426828",
+      "tmdb_id": 141,
+      "imdb_id": "tt0246578",
+      "title": "Donnie Darko",
+      "year": 2001,
+      "genre": "Sci-Fi",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Fantasy",
+        "Comedy",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "directors": [
+        "Richard Kelly"
+      ],
+      "runtime": 134,
+      "overview": "Donnie Darko is a 2001 American science fiction psychological thriller film written and directed by Richard Kelly in his directorial debut, and produced by Flower Films. It stars Jake Gyllenhaal, Jena Malone, Drew Barrymore, Maggie Gyllenhaal, Mary McDonnell, Katharine Ross, Patrick Swayze and Noah Wyle. Set in October 1988, the film follows Donnie Darko (J. Gyllenhaal), a troubled teenager who inadvertently escapes a bizarre accident by sleepwalking.",
+      "overview_source": "https://en.wikipedia.org/wiki/Donnie_Darko",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 125163,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q533383",
+      "tmdb_id": 17473,
+      "imdb_id": "tt0368226",
+      "title": "The Room",
+      "year": 2003,
+      "genre": "Drama",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "directors": [
+        "Tommy Wiseau"
+      ],
+      "runtime": 99,
+      "overview": "The Room is a 2003 American independent romantic drama and \"black comedy\" film written by, directed by, produced by, and starring Tommy Wiseau. The film also stars Juliette Danielle and Greg Sestero. Set in San Francisco, the film is centered on a melodramatic love triangle between amiable banker Johnny (Wiseau), his deceptive fiancée Lisa (Danielle), and his conflicted best friend Mark (Sestero). The work was reportedly intended to be semi-autobiographical.",
+      "overview_source": "https://en.wikipedia.org/wiki/The_Room",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 50641,
+      "tags": []
+    },
+    {
+      "wikidata_id": "Q58814632",
+      "tmdb_id": 515042,
+      "imdb_id": "tt7775622",
+      "title": "Free Solo",
+      "year": 2018,
+      "genre": "Documentary",
+      "genres": [
+        "Documentary"
+      ],
+      "directors": [
+        "Jimmy Chin",
+        "Elizabeth Chai Vasarhelyi"
+      ],
+      "runtime": 96,
+      "overview": "Free Solo is a 2018 American documentary film directed by Elizabeth Chai Vasarhelyi and Jimmy Chin that profiles rock climber Alex Honnold on his quest to perform the first-ever free solo climb of a route on El Capitan, in Yosemite National Park in California, in June 2017.",
+      "overview_source": "https://en.wikipedia.org/wiki/Free_Solo",
+      "poster_url": null,
+      "poster_page": null,
+      "poster_credit": null,
+      "popularity": 13661,
+      "tags": []
+    }
+  ]
+}

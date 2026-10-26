@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign Up · Movie Night</title>
+  <!-- Apply the saved theme before the page paints, so there's no flash of the default theme. -->
+  <script>try { var t = localStorage.getItem('movienight.theme'); if (t === 'midnight' || t === 'daydream') document.documentElement.dataset.theme = t; } catch (e) {}</script>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Cmask id=%27m%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%23fff%27/%3E%3Ccircle cx=%2719.5%27 cy=%2712.5%27 r=%276.5%27/%3E%3C/mask%3E%3Crect width=%2732%27 height=%2732%27 rx=%279%27 fill=%27%23ff7d86%27/%3E%3Ccircle cx=%2715%27 cy=%2717%27 r=%278.5%27 fill=%27%2326091c%27 mask=%27url(%23m)%27/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700;9..40,800&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,800;1,9..144,600&display=swap">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="auth-page">
+  <div class="auth-layout">
+    <aside class="auth-showcase" aria-label="About Movie Night">
+      <div class="showcase-posters" aria-hidden="true">
+        <div class="poster poster--rings palette-4">
+          <span class="poster-kicker">Thriller</span>
+          <span class="poster-title">Low Tide</span>
+          <span class="poster-billing"><span>Movie Night</span><span>1987</span></span>
+        </div>
+        <div class="poster poster--sun palette-0">
+          <span class="poster-kicker">Comedy</span>
+          <span class="poster-title">Second Feature</span>
+          <span class="poster-billing"><span>Movie Night</span><span>2003</span></span>
+        </div>
+        <div class="poster poster--beams palette-5">
+          <span class="poster-kicker">Horror</span>
+          <span class="poster-title">After Hours</span>
+          <span class="poster-billing"><span>Movie Night</span><span>1981</span></span>
+        </div>
+      </div>
+      <p class="showcase-tagline">Start your <em>lineup</em> tonight.</p>
+      <p class="showcase-sub">Add the movies you keep meaning to see, then check them off as you go. Your list is private to your account.</p>
+    </aside>
+
+    <main class="auth-panel">
+      <div class="auth-card">
+        <a href="/" class="brand">
+          <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+            <defs><mask id="brand-moon"><rect width="32" height="32" fill="#fff"/><circle cx="19.5" cy="12.5" r="6.5" fill="#000"/></mask></defs>
+            <rect class="mark-bg" width="32" height="32" rx="9"/>
+            <circle class="mark-fg" cx="15" cy="17" r="8.5" mask="url(#brand-moon)"/>
+            <circle class="mark-fg" cx="23.5" cy="8.5" r="1.5"/>
+          </svg>
+          <span>Movie <em>Night</em></span>
+        </a>
+
+        <h1>Create your account</h1>
+        <p class="auth-lead">It takes a few seconds. All fields are required.</p>
+
+        <p class="alert" id="form-message" role="alert"></p>
+
+        <form id="auth-form" data-mode="register" novalidate>
+          <div class="field">
+            <label for="username">Username</label>
+            <input id="username" name="username" type="text" autocomplete="username"
+                   autocapitalize="none" spellcheck="false"
+                   minlength="3" maxlength="30" pattern="[A-Za-z0-9_]+" required aria-describedby="username-hint">
+            <p class="hint" id="username-hint">3–30 characters: letters, numbers, and underscores.</p>
+            <p class="field-error" id="username-error" hidden></p>
+          </div>
+
+          <div class="field">
+            <label for="password">Password</label>
+            <div class="password-field">
+              <input id="password" name="password" type="password" autocomplete="new-password"
+                     minlength="8" maxlength="72" required aria-describedby="password-hint">
+              <button type="button" class="password-toggle" aria-controls="password" aria-label="Show password" data-name="password">
+                <svg class="icon icon-eye" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="3"/></svg>
+                <svg class="icon icon-eye-off" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 4l16 16"/><path d="M9.9 5.8A9.7 9.7 0 0 1 12 5.5c6 0 9.5 6.5 9.5 6.5a17 17 0 0 1-2.6 3.4M6.5 7.6C3.9 9.3 2.5 12 2.5 12S6 18.5 12 18.5a9.4 9.4 0 0 0 4.4-1.1"/><path d="M9.9 9.9a3 3 0 0 0 4.2 4.2"/></svg>
+              </button>
+            </div>
+            <ul class="requirements" id="password-hint">
+              <li id="password-length-rule"><span class="req-mark" aria-hidden="true"></span>Between 8 and 72 characters<span class="sr-only req-state"></span></li>
+            </ul>
+            <p class="field-error" id="password-error" hidden></p>
+          </div>
+
+          <div class="field">
+            <label for="confirm">Confirm password</label>
+            <div class="password-field">
+              <input id="confirm" name="confirm" type="password" autocomplete="new-password" required>
+              <button type="button" class="password-toggle" aria-controls="confirm" aria-label="Show password confirmation" data-name="password confirmation">
+                <svg class="icon icon-eye" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="3"/></svg>
+                <svg class="icon icon-eye-off" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 4l16 16"/><path d="M9.9 5.8A9.7 9.7 0 0 1 12 5.5c6 0 9.5 6.5 9.5 6.5a17 17 0 0 1-2.6 3.4M6.5 7.6C3.9 9.3 2.5 12 2.5 12S6 18.5 12 18.5a9.4 9.4 0 0 0 4.4-1.1"/><path d="M9.9 9.9a3 3 0 0 0 4.2 4.2"/></svg>
+              </button>
+            </div>
+            <p class="field-error" id="confirm-error" hidden></p>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-block">
+            <span class="btn-spinner" aria-hidden="true"></span>
+            <span class="btn-label">Create account</span>
+          </button>
+        </form>
+
+        <p class="auth-switch">Already have an account? <a href="/login.html">Log in</a></p>
+      </div>
+    </main>
+  </div>
+  <script src="/js/api.js"></script>
+  <script src="/js/forms.js"></script>
+  <script src="/js/auth.js"></script>
+</body>
+</html>

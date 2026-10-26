@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Watchlist · Movie Night</title>
+  <!-- Apply the saved theme before the page paints, so there's no flash of the default theme. -->
+  <script>try { var t = localStorage.getItem('movienight.theme'); if (t === 'midnight' || t === 'daydream') document.documentElement.dataset.theme = t; } catch (e) {}</script>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Cmask id=%27m%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%23fff%27/%3E%3Ccircle cx=%2719.5%27 cy=%2712.5%27 r=%276.5%27/%3E%3C/mask%3E%3Crect width=%2732%27 height=%2732%27 rx=%279%27 fill=%27%23ff7d86%27/%3E%3Ccircle cx=%2715%27 cy=%2717%27 r=%278.5%27 fill=%27%2326091c%27 mask=%27url(%23m)%27/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700;9..40,800&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,800;1,9..144,600&display=swap">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="topbar">
+    <a href="#watchlist" class="brand">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+        <defs><mask id="brand-moon"><rect width="32" height="32" fill="#fff"/><circle cx="19.5" cy="12.5" r="6.5" fill="#000"/></mask></defs>
+        <rect class="mark-bg" width="32" height="32" rx="9"/>
+        <circle class="mark-fg" cx="15" cy="17" r="8.5" mask="url(#brand-moon)"/>
+        <circle class="mark-fg" cx="23.5" cy="8.5" r="1.5"/>
+      </svg>
+      <span>Movie <em>Night</em></span>
+    </a>
+
+    <nav class="main-nav" aria-label="Main">
+      <a class="nav-link" href="#watchlist" data-view="watchlist" aria-current="page">Watchlist</a>
+      <a class="nav-link" href="#discover" data-view="discover">Discover</a>
+      <a class="nav-link" href="#deleted" data-view="deleted">Recently deleted <span class="nav-count" id="nav-deleted-count"></span></a>
+    </nav>
+
+    <div class="topbar-user">
+      <button type="button" class="btn btn-ghost btn-sm" id="theme-btn" aria-haspopup="dialog">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3a9 9 0 1 0 0 18c1.2 0 1.8-.8 1.8-1.7 0-1.2-1-1.6-1-2.6 0-1 .8-1.7 1.9-1.7H17a4 4 0 0 0 4-4C21 6.5 17 3 12 3z"/><circle cx="7.5" cy="11" r="1"/><circle cx="10" cy="7" r="1"/><circle cx="15" cy="7" r="1"/></svg>
+        <span class="btn-label-wide">Theme</span>
+      </button>
+      <p class="user-chip">
+        <span class="avatar" id="user-initial" aria-hidden="true"></span>
+        <span class="username"><span class="sr-only">Signed in as </span><strong id="current-user">…</strong></span>
+      </p>
+      <button type="button" class="btn btn-ghost btn-sm" id="logout-btn">
+        <span class="btn-spinner" aria-hidden="true"></span>
+        <span class="btn-label">Log out</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main" class="page" tabindex="-1">
+    <!-- ===== Watchlist view ===== -->
+    <div id="view-watchlist">
+      <section class="hero" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">Tonight's lineup</p>
+          <h1 id="page-title" class="view-heading" tabindex="-1">Your <em>watchlist</em></h1>
+          <p class="hero-summary" id="summary">Loading your movies…</p>
+        </div>
+        <div class="stats-panel">
+          <dl class="stats">
+            <div class="stat stat-unwatched"><dt>To watch</dt><dd id="stat-unwatched">–</dd></div>
+            <div class="stat stat-watched"><dt>Watched</dt><dd id="stat-watched">–</dd></div>
+            <div class="stat"><dt>Total</dt><dd id="stat-total">–</dd></div>
+          </dl>
+          <div class="progress">
+            <div class="progress-track" aria-hidden="true"><div class="progress-bar" id="progress-bar"></div></div>
+            <p class="progress-label" id="progress-label">&nbsp;</p>
+          </div>
+        </div>
+      </section>
+
+      <div class="layout">
+        <section class="panel add-panel" aria-labelledby="add-title">
+          <h2 id="add-title">Add a movie</h2>
+
+          <div class="segmented mode-switch" id="add-mode" role="group" aria-label="How to add a movie" hidden>
+            <button type="button" data-mode="search" aria-pressed="true">Search TMDB</button>
+            <button type="button" data-mode="manual" aria-pressed="false">Enter manually</button>
+          </div>
+
+          <div id="tmdb-search" class="discover" hidden>
+            <form id="discover-form" class="discover-form" role="search" novalidate>
+              <label for="discover-q">Find a movie by title</label>
+              <div class="search-row">
+                <div class="search-field">
+                  <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>
+                  <input id="discover-q" name="q" type="search" maxlength="100" autocomplete="off" placeholder="e.g. Past Lives">
+                </div>
+                <button type="submit" class="btn btn-secondary">Search</button>
+              </div>
+            </form>
+            <p id="discover-status" class="discover-status" role="status"></p>
+            <div id="discover-fallback" class="discover-fallback"></div>
+            <ul id="discover-results" class="discover-results" aria-label="Search results"></ul>
+          </div>
+
+          <div id="manual-add">
+            <p class="panel-note">Only the title is required.</p>
+            <form id="add-form" class="add-form" novalidate>
+              <div class="field">
+                <label for="title">Title <span class="tag tag-required" aria-hidden="true">Required</span></label>
+                <input id="title" name="title" type="text" maxlength="200" autocomplete="off"
+                       placeholder="e.g. Past Lives" required>
+                <p class="field-error" id="title-error" hidden></p>
+              </div>
+              <div class="field-row">
+                <div class="field">
+                  <label for="year">Year <span class="tag">Optional</span></label>
+                  <input id="year" name="year" type="text" inputmode="numeric" maxlength="4" autocomplete="off" placeholder="2023">
+                  <p class="field-error" id="year-error" hidden></p>
+                </div>
+                <div class="field">
+                  <label for="genre">Genre <span class="tag">Optional</span></label>
+                  <input id="genre" name="genre" type="text" maxlength="50" list="genre-options" autocomplete="off" placeholder="Drama">
+                  <datalist id="genre-options">
+                    <option value="Action"><option value="Animation"><option value="Comedy">
+                    <option value="Documentary"><option value="Drama"><option value="Fantasy">
+                    <option value="Horror"><option value="Romance"><option value="Sci-Fi">
+                    <option value="Thriller">
+                  </datalist>
+                  <p class="field-error" id="genre-error" hidden></p>
+                </div>
+              </div>
+              <p class="alert" id="add-message" role="alert"></p>
+              <button type="submit" class="btn btn-primary btn-block" id="add-btn">
+                <span class="btn-spinner" aria-hidden="true"></span>
+                <svg class="icon btn-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 5v14M5 12h14"/></svg>
+                <span class="btn-label">Add to watchlist</span>
+              </button>
+            </form>
+          </div>
+        </section>
+
+        <section class="collection" aria-labelledby="results-heading">
+          <div class="collection-header">
+            <h2 id="results-heading" tabindex="-1">All movies <span class="results-count" id="results-count"></span></h2>
+            <div class="segmented" role="group" aria-label="Filter movies">
+              <button type="button" data-filter="all" aria-pressed="true">All <span class="filter-count">0</span></button>
+              <button type="button" data-filter="unwatched" aria-pressed="false">To watch <span class="filter-count">0</span></button>
+              <button type="button" data-filter="watched" aria-pressed="false">Watched <span class="filter-count">0</span></button>
+            </div>
+          </div>
+
+          <div class="toolbar">
+            <div class="search-field">
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>
+              <label for="list-search" class="sr-only">Search your watchlist</label>
+              <input id="list-search" type="search" autocomplete="off" placeholder="Search your watchlist by title, genre, or year">
+            </div>
+            <div class="sort-field">
+              <label for="sort">Sort</label>
+              <select id="sort">
+                <option value="added-desc">Recently added</option>
+                <option value="added-asc">Oldest added</option>
+                <option value="title-asc">Title (A–Z)</option>
+                <option value="year-desc">Release year (newest)</option>
+                <option value="year-asc">Release year (oldest)</option>
+              </select>
+            </div>
+          </div>
+
+          <div id="list-state">
+            <div class="loading" role="status">
+              <span class="spinner" aria-hidden="true"></span>
+              <p>Loading your watchlist…</p>
+            </div>
+          </div>
+          <ul id="movie-list" class="movie-grid" aria-labelledby="results-heading" hidden></ul>
+        </section>
+      </div>
+    </div>
+
+    <!-- ===== Discover view: the shared movie catalog ===== -->
+    <div id="view-discover" hidden>
+      <section class="hero explore-hero" aria-labelledby="discover-heading">
+        <div>
+          <p class="eyebrow">Discover</p>
+          <h1 id="discover-heading" class="view-heading" tabindex="-1">Find your next <em>movie night</em></h1>
+          <p class="hero-summary" id="catalog-summary">Loading the catalog…</p>
+        </div>
+      </section>
+
+      <section class="panel starter-panel" id="starter-panel" aria-labelledby="starter-title" hidden>
+        <div>
+          <h2 id="starter-title">New here? Start with a few favorites</h2>
+          <p class="panel-note" id="starter-text"></p>
+        </div>
+        <button type="button" class="btn btn-primary" id="starter-btn" aria-haspopup="dialog">Preview starter pack</button>
+      </section>
+
+      <div class="explore-toolbar">
+        <div class="search-field">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>
+          <label for="catalog-search" class="sr-only">Search the movie catalog</label>
+          <input id="catalog-search" type="search" autocomplete="off" placeholder="Search movies by title, director, or year">
+        </div>
+        <div class="chip-row">
+          <span class="chip-label" id="genre-label">Genre</span>
+          <div class="chips" id="genre-chips" role="group" aria-labelledby="genre-label"></div>
+        </div>
+        <div class="chip-row">
+          <span class="chip-label" id="decade-label">Decade</span>
+          <div class="chips" id="decade-chips" role="group" aria-labelledby="decade-label"></div>
+        </div>
+      </div>
+
+      <section id="explore-results" class="explore-results" aria-labelledby="explore-results-heading" hidden>
+        <h2 id="explore-results-heading" tabindex="-1">Results <span class="results-count"></span></h2>
+        <div id="explore-results-state"></div>
+        <ul id="explore-results-grid" class="catalog-grid"></ul>
+      </section>
+
+      <div id="explore-shelves" class="explore-shelves"></div>
+
+      <p class="catalog-sources" id="catalog-sources">
+        Movie facts from <a href="https://www.wikidata.org" rel="noopener">Wikidata</a>, descriptions from
+        <a href="https://en.wikipedia.org" rel="noopener">Wikipedia</a> (CC BY-SA), and free posters from
+        <a href="https://commons.wikimedia.org" rel="noopener">Wikimedia Commons</a>. Movies without a free poster get one drawn by Movie Night.
+      </p>
+    </div>
+
+    <!-- ===== Recently Deleted view ===== -->
+    <div id="view-deleted" hidden>
+      <section aria-labelledby="deleted-heading">
+        <div class="trash-header">
+          <div>
+            <p class="eyebrow">Cutting room floor</p>
+            <h1 id="deleted-heading" class="view-heading" tabindex="-1">Recently deleted</h1>
+            <p class="trash-note">
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg>
+              <span>Movies you remove from your watchlist wait here with all their details. <strong>Restore</strong> puts one back.
+              <strong>Delete forever</strong> erases it, and permanently deleted movies can't be recovered.</span>
+            </p>
+          </div>
+          <button type="button" class="btn btn-secondary" id="restore-all-btn" hidden>
+            <span class="btn-spinner" aria-hidden="true"></span>
+            <svg class="icon btn-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 14L4 9l5-5"/><path d="M4 9h10.5a5.5 5.5 0 0 1 0 11H11"/></svg>
+            <span class="btn-label">Restore all</span>
+          </button>
+        </div>
+        <div id="deleted-state"></div>
+        <ul id="deleted-list" class="trash-list" aria-labelledby="deleted-heading" hidden></ul>
+      </section>
+    </div>
+  </main>
+
+  <footer class="credits" id="credits" hidden>
+    <span>Credits:</span>
+    <a href="https://www.themoviedb.org" rel="noopener"><img src="/img/tmdb-logo.svg" alt="TMDB" width="92" height="12"></a>
+    <span>This product uses the TMDB API but is not endorsed or certified by TMDB.</span>
+  </footer>
+
+  <dialog id="confirm-dialog" class="dialog" aria-labelledby="confirm-title" aria-describedby="confirm-text">
+    <form method="dialog">
+      <h2 id="confirm-title">Are you sure?</h2>
+      <p id="confirm-text"></p>
+      <div class="dialog-actions">
+        <button type="submit" value="cancel" class="btn btn-ghost" autofocus>Cancel</button>
+        <button type="submit" value="confirm" class="btn btn-danger" id="confirm-ok">Confirm</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="movie-dialog" class="dialog movie-dialog" aria-labelledby="movie-dialog-title" aria-describedby="movie-dialog-overview">
+    <form method="dialog" class="movie-dialog-layout">
+      <div class="movie-dialog-poster" id="movie-dialog-poster"></div>
+      <div class="movie-dialog-info">
+        <h2 id="movie-dialog-title"></h2>
+        <p class="movie-dialog-meta" id="movie-dialog-meta"></p>
+        <ul class="genre-tags" id="movie-dialog-genres" aria-label="Genres"></ul>
+        <p class="movie-dialog-overview" id="movie-dialog-overview"></p>
+        <p class="movie-dialog-source" id="movie-dialog-source"></p>
+        <div class="dialog-actions">
+          <span id="movie-dialog-action" class="movie-dialog-action"></span>
+          <button type="submit" class="btn btn-ghost" value="close">Close</button>
+        </div>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="starter-dialog" class="dialog starter-dialog" aria-labelledby="starter-dialog-title" aria-describedby="starter-dialog-text">
+    <form id="starter-form">
+      <h2 id="starter-dialog-title">Starter pack</h2>
+      <p id="starter-dialog-text">A mix of well-loved films across genres. Uncheck anything you're not interested in. Nothing is added until you confirm.</p>
+      <fieldset class="starter-fieldset">
+        <legend class="sr-only">Movies to add</legend>
+        <ul class="starter-list" id="starter-list"></ul>
+      </fieldset>
+      <div class="dialog-actions">
+        <button type="button" class="btn btn-ghost" id="starter-cancel">Cancel</button>
+        <button type="submit" class="btn btn-primary" id="starter-submit">
+          <span class="btn-spinner" aria-hidden="true"></span>
+          <span class="btn-label">Add movies</span>
+        </button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="theme-dialog" class="dialog theme-dialog" aria-labelledby="theme-title">
+    <form method="dialog">
+      <h2 id="theme-title">Theme</h2>
+      <p>Pick how Movie Night looks. Your choice is saved to your account.</p>
+      <fieldset class="theme-options">
+        <legend class="sr-only">Choose a theme</legend>
+        <label class="theme-option">
+          <input type="radio" name="theme" value="after-hours">
+          <span class="theme-card">
+            <span class="swatch swatch-after-hours" aria-hidden="true"><span class="s-card"></span><span class="s-line"></span><span class="s-btn"></span></span>
+            <span><span class="theme-name">After Hours</span><span class="theme-desc">Deep plum, coral, and lavender. The original.</span></span>
+            <span class="theme-check" aria-hidden="true"><svg class="icon" viewBox="0 0 24 24" focusable="false"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>
+          </span>
+        </label>
+        <label class="theme-option">
+          <input type="radio" name="theme" value="midnight">
+          <span class="theme-card">
+            <span class="swatch swatch-midnight" aria-hidden="true"><span class="s-card"></span><span class="s-line"></span><span class="s-btn"></span></span>
+            <span><span class="theme-name">Midnight</span><span class="theme-desc">Quiet navy and cool blue, with flatter, crisper shapes.</span></span>
+            <span class="theme-check" aria-hidden="true"><svg class="icon" viewBox="0 0 24 24" focusable="false"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>
+          </span>
+        </label>
+        <label class="theme-option">
+          <input type="radio" name="theme" value="daydream">
+          <span class="theme-card">
+            <span class="swatch swatch-daydream" aria-hidden="true"><span class="s-card"></span><span class="s-line"></span><span class="s-btn"></span></span>
+            <span><span class="theme-name">Daydream</span><span class="theme-desc">Light and airy, with soft lavender and peach.</span></span>
+            <span class="theme-check" aria-hidden="true"><svg class="icon" viewBox="0 0 24 24" focusable="false"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span>
+          </span>
+        </label>
+      </fieldset>
+      <p class="theme-status" id="theme-status" role="status"></p>
+      <div class="dialog-actions">
+        <button type="submit" class="btn btn-primary">Done</button>
+      </div>
+    </form>
+  </dialog>
+
+  <div id="toast-container" class="toast-container"></div>
+  <div id="sr-status" class="sr-only" role="status"></div>
+  <div id="sr-alert" class="sr-only" role="alert"></div>
+
+  <script src="/js/api.js"></script>
+  <script src="/js/forms.js"></script>
+  <script src="/js/ui.js"></script>
+  <script src="/js/theme.js"></script>
+  <script src="/js/main.js"></script>
+  <script src="/js/trash.js"></script>
+  <script src="/js/discover.js"></script>
+  <script src="/js/catalog.js"></script>
+</body>
+</html>
