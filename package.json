@@ -1,26 +1,29 @@
 {
   "name": "movie-night-watchlist",
   "version": "1.0.0",
-  "description": "Full-stack movie watchlist tracker with Express, SQLite and session authentication",
+  "description": "Full-stack movie watchlist tracker with Express, MongoDB and session authentication",
   "main": "server.js",
   "private": true,
   "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js",
-    "db:init": "node database/init.js",
+    "start": "node --env-file-if-exists=.env server.js",
+    "dev": "node --watch --env-file-if-exists=.env server.js",
+    "db:init": "node --env-file-if-exists=.env database/init.js",
     "test": "node --test \"tests/*.test.js\"",
-    "catalog:seed": "node database/seedCatalog.js",
-    "catalog:refresh": "node scripts/refresh-catalog.js",
+    "catalog:seed": "node --env-file-if-exists=.env database/seedCatalog.js",
+    "catalog:refresh": "node --env-file-if-exists=.env scripts/refresh-catalog.js",
     "catalog:build": "node scripts/build-catalog.js"
   },
   "engines": {
-    "node": ">=22.13.0 <25"
+    "node": ">=22.9.0"
   },
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^3.0.3",
-    "dotenv": "^18.0.9",
     "express": "^5.3.0",
-    "express-session": "^1.19.0"
+    "express-session": "^1.19.0",
+    "mongodb": "^7.7.0"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^11.3.0"
   }
 }

@@ -1,20 +1,14 @@
-```gitignore
 # Dependencies
 node_modules/
 
-# Environment variables and secrets
+# Environment variables and secrets (MONGODB_URI, SESSION_SECRET, TMDB_API_KEY)
 .env
 .env.*
 !.env.example
-
-# Local databases and database files
-data/
-*.db
-*.db-journal
-*.db-wal
-*.db-shm
-*.sqlite
-*.sqlite3
+*.pem
+*.key
+*.p12
+*.pfx
 
 # Logs and test output
 *.log
@@ -29,4 +23,3 @@ coverage/
 # Operating system files
 .DS_Store
 Thumbs.db
-```

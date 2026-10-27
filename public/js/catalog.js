@@ -257,7 +257,7 @@ function openStarterDialog() {
 
 async function addStarterPack(event) {
   event.preventDefault();
-  const ids = [...catalogEls.starterList.querySelectorAll('input:checked:not(:disabled)')].map((box) => Number(box.value));
+  const ids = [...catalogEls.starterList.querySelectorAll('input:checked:not(:disabled)')].map((box) => box.value);
   if (!ids.length) return;
   setButtonBusy(catalogEls.starterSubmit, true, 'Adding…');
   try {

@@ -227,7 +227,8 @@ async function main() {
     const qid = page.pageprops.wikibase_item;
     const fact = facts.get(qid);
     // A few items have no English label in Wikidata; the Wikipedia article title is the same name.
-    if (fact && !fact.title) fact.title = page.title.replace(/ ([^)]*)$/, '');
+    // Only a trailing disambiguation like " (film)" or " (2024 film)" is removed.
+    if (fact && !fact.title) fact.title = page.title.replace(/ \([^)]*\)$/, '');
     if (!fact || !fact.title) {
       problems.push(`${articleTitle}: no Wikidata facts`);
       continue;

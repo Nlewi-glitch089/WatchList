@@ -54,10 +54,10 @@ function button(className, text, { iconName, label, onClick } = {}) {
 const plural = (count, word) => `${count} ${word}${count === 1 ? '' : 's'}`;
 const movieLabel = (movie) => `${movie.title}${movie.year ? ` (${movie.year})` : ''}`;
 
-// SQLite stores UTC times like "2026-10-26 14:03:12".
+// The API sends dates as ISO 8601 UTC strings, like "2026-10-26T14:03:12.000Z".
 function parseDbDate(value) {
   if (!value) return null;
-  const date = new Date(value.replace(' ', 'T') + 'Z');
+  const date = new Date(value);
   return Number.isNaN(date.getTime()) ? null : date;
 }
 

@@ -22,7 +22,8 @@ const FILTERS = {
   watched: { heading: 'Watched', test: (m) => m.watched },
 };
 
-const byAdded = (a, b) => a.created_at.localeCompare(b.created_at) || a.id - b.id;
+// ISO dates sort as text; ids (MongoDB ObjectIds) break ties in creation order.
+const byAdded = (a, b) => a.created_at.localeCompare(b.created_at) || a.id.localeCompare(b.id);
 const byYear = (a, b) => (a.year ?? Infinity) - (b.year ?? Infinity) || a.title.localeCompare(b.title);
 const SORTS = {
   'added-desc': (a, b) => byAdded(b, a),

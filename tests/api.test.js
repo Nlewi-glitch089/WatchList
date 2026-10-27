@@ -1,26 +1,22 @@
 // End-to-end API tests using Node's built-in test runner against a real
-// server instance and a fresh in-memory SQLite database.
-process.env.DB_PATH = ':memory:';
+// server instance and a fresh, throwaway MongoDB database.
 process.env.SESSION_SECRET = 'test-secret';
 process.env.NODE_ENV = 'test';
 
 const { test, before, after } = require('node:test');
 const assert = require('node:assert/strict');
-const app = require('../app');
-const db = require('../database/database');
+const { startTestServer } = require('./helpers/testServer');
 
-let server;
+let testServer;
+let db;
 let baseUrl;
 
 before(async () => {
-  server = app.listen(0);
-  await new Promise((resolve) => server.once('listening', resolve));
-  baseUrl = `http://127.0.0.1:${server.address().port}`;
+  testServer = await startTestServer();
+  ({ db, baseUrl } = testServer);
 });
 
-after(() => {
-  server.close();
-});
+after(() => testServer?.stop());
 
 // A tiny HTTP client that remembers its session cookie, like a browser would.
 function createClient() {
@@ -73,7 +69,7 @@ test('registration creates a user, hashes the password, and starts a session', a
   assert.match(cookie, /HttpOnly/i);
   assert.match(cookie, /SameSite=Lax/i);
 
-  const row = db.prepare('SELECT password_hash FROM users WHERE username = ?').get('alice');
+  const row = await db.collection('users').findOne({ username_lower: 'alice' });
   assert.notEqual(row.password_hash, 'password123');
   assert.match(row.password_hash, /^\$2[aby]\$/, 'password should be stored as a bcrypt hash');
 
@@ -134,6 +130,24 @@ test('logout ends the session', async () => {
   const out = await client.request('POST', '/api/auth/logout');
   assert.equal(out.status, 200);
 
+  assert.equal((await client.request('GET', '/api/auth/me')).status, 401);
+  assert.equal((await client.request('GET', '/api/movies')).status, 401);
+});
+
+test('sessions are stored in MongoDB, and an expired session is no longer accepted', async () => {
+  const sessionIndex = (await db.collection('sessions').indexes()).find((i) => i.key.expires === 1);
+  assert.equal(sessionIndex.expireAfterSeconds, 0, 'MongoDB deletes sessions once they expire');
+
+  const client = createClient();
+  const reg = await client.request('POST', '/api/auth/register', { username: 'expiry_user', password: 'password123' });
+  const sid = decodeURIComponent(reg.setCookie[0].split(';')[0].split('=')[1]).slice(2).split('.')[0];
+  const stored = await db.collection('sessions').findOne({ _id: sid });
+  assert.ok(stored.expires > new Date(), 'a new session expires in the future');
+  assert.equal(JSON.parse(stored.session).userId, reg.data.user.id);
+  assert.equal((await client.request('GET', '/api/auth/me')).status, 200);
+
+  // The TTL monitor only runs about once a minute, so the store must ignore expired documents itself.
+  await db.collection('sessions').updateOne({ _id: sid }, { $set: { expires: new Date(Date.now() - 1000) } });
   assert.equal((await client.request('GET', '/api/auth/me')).status, 401);
   assert.equal((await client.request('GET', '/api/movies')).status, 401);
 });

@@ -1,7 +1,6 @@
 // Tests for logging, recoverable deletion, theme settings, and TMDB movie search.
-// Uses an in-memory database and a tiny local stand-in for the TMDB API, so no network
-// access or real API key is needed.
-process.env.DB_PATH = ':memory:';
+// Uses a throwaway MongoDB database and a tiny local stand-in for the TMDB API, so no
+// real API key is needed.
 process.env.SESSION_SECRET = 'test-secret-do-not-log';
 process.env.NODE_ENV = 'test';
 process.env.LOG_LEVEL = 'debug';
@@ -10,6 +9,7 @@ delete process.env.TMDB_API_KEY;
 const { test, before, after, beforeEach } = require('node:test');
 const assert = require('node:assert/strict');
 const http = require('node:http');
+const { ObjectId } = require('mongodb');
 
 // Capture everything the logger prints, so tests can inspect it (and the test output stays clean).
 const logs = [];
@@ -18,22 +18,21 @@ for (const method of ['log', 'warn', 'error']) {
 }
 const logsSince = (mark) => logs.slice(mark).join('\n');
 
-const app = require('../app');
-const db = require('../database/database');
+const { startTestServer } = require('./helpers/testServer');
 const tmdb = require('../lib/tmdb');
 const { createLogger, scrub } = require('../lib/logger');
 
 const TMDB_KEY = 'tmdb-test-key-5f2a9c';
-let server;
+let testServer;
+let db;
 let baseUrl;
 let stub;
 let stubMode = 'ok';
 const stubRequests = [];
 
 before(async () => {
-  server = app.listen(0);
-  await new Promise((resolve) => server.once('listening', resolve));
-  baseUrl = `http://127.0.0.1:${server.address().port}`;
+  testServer = await startTestServer();
+  ({ db, baseUrl } = testServer);
 
   // Stand-in for api.themoviedb.org. stubMode picks how it misbehaves.
   stub = http.createServer((req, res) => {
@@ -68,9 +67,9 @@ before(async () => {
   process.env.TMDB_API_BASE = `http://127.0.0.1:${stub.address().port}`;
 });
 
-after(() => {
-  server.close();
-  stub.close();
+after(async () => {
+  stub?.close();
+  await testServer?.stop();
 });
 
 beforeEach(() => {
@@ -138,7 +137,7 @@ test('auth logs explain failures without leaking passwords, hashes, cookies, or 
   await client.request('POST', '/api/auth/logout');
 
   const output = logsSince(mark);
-  const hash = db.prepare('SELECT password_hash FROM users WHERE username = ?').get(username).password_hash;
+  const hash = (await db.collection('users').findOne({ username_lower: username.toLowerCase() })).password_hash;
   // The cookie value is "s:<session id>.<signature>"; neither part may appear in the logs.
   const sessionId = sid.slice(2).split('.')[0];
   for (const secret of [password, 'Wrong-Pass-987', 'another-pass-1', hash, 'test-secret-do-not-log', sid, sessionId]) {
@@ -234,7 +233,7 @@ test('permanent delete only works from Recently Deleted and removes the movie fo
   assert.equal(purge.status, 200);
   assert.equal((await client.request('GET', '/api/movies/deleted')).data.movies.length, 0);
   assert.equal((await client.request('POST', `/api/movies/${id}/restore`)).status, 404);
-  assert.equal(db.prepare('SELECT COUNT(*) AS n FROM movies WHERE id = ?').get(id).n, 0);
+  assert.equal(await db.collection('movies').countDocuments({ _id: new ObjectId(id) }), 0);
 
   assert.equal((await client.request('DELETE', '/api/movies/abc/permanent')).status, 400);
   assert.equal((await client.request('POST', '/api/movies/0/restore')).status, 400);

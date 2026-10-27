@@ -1,25 +1,21 @@
 // Security behavior: headers, the same-origin check, rate limits, and the health check.
 // Runs in its own process, so the rate-limit counters don't affect the other test files.
-process.env.DB_PATH = ':memory:';
 process.env.SESSION_SECRET = 'security-test-secret';
 process.env.NODE_ENV = 'test';
 
 const { test, before, after } = require('node:test');
 const assert = require('node:assert/strict');
-const app = require('../app');
+const { startTestServer } = require('./helpers/testServer');
 
-let server;
+let testServer;
 let baseUrl;
 
 before(async () => {
-  server = app.listen(0);
-  await new Promise((resolve) => server.once('listening', resolve));
-  baseUrl = `http://127.0.0.1:${server.address().port}`;
+  testServer = await startTestServer();
+  ({ baseUrl } = testServer);
 });
 
-after(() => {
-  server.close();
-});
+after(() => testServer?.stop());
 
 const post = (path, body, headers = {}) =>
   fetch(baseUrl + path, {
